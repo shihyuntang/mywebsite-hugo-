@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student in Department of Astronomy and Planetary Science
+role: Department of Astronomy and Planetary Science
 
 # Organizations/Affiliations
 organizations:
-- name: Northern Arizona University / Lowell Observatory
+- name: NAU / Lowell Observatory
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -85,8 +85,6 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am a graduate student from Taiwan and is now working with Dr. Lisa Prato at NAU/Lowell observatory. I started to pursue a Ph.D. at the Department of Astronomy and Planetary Science, NAU, Flagstaff, Arizona, on Jan. 2020.
+Hi, I am Shih-Yun Tang (湯士昀), a first year graduate student from Taiwan that studying at the Northern Arizona University in the Department of Astronomy and Planetary Science. I work with Dr. Lisa Prato (Lowell Observatory) on TBD.
 
 I completed both of my B.A. and M.S. in Physics at the National Central University, Taiwan. My first research project was to characterize the stellar and substellar members in the Coma Berenices star cluster with prof. Wen-Ping Chen. From there, I learn how to play around with the CDS database and also IR spectrum.
-
-大家好
