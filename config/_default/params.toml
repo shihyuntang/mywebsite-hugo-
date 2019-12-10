@@ -97,7 +97,7 @@ address = {street = "527 S. Beaver St.", city = "Flagstaff", region = "AZ", post
 coordinates = {latitude = "35.192208", longitude = "-111.653781"}
 
 # Directions for visitors to locate you.
-directions = "TBD"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
