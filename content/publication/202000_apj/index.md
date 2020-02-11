@@ -7,11 +7,11 @@ authors:
 - "Xiaoying Pang"
 - "J. Z. Liu"
 
-date: "2020-??-??T00:00:00Z"
-doi: ""
+date: "2020-01-29T00:00:00Z"
+doi: "10.3847/1538-4357/ab63d4"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-05-17T00:00:00Z"
+publishDate: "2020-01-29T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,7 @@ publication_short: "ApJ"
 abstract: We present the stellar population, using Gaia/DR2 parallax, kinematics, and photometry, of the young ($\sim 100$Myr), nearby ($\sim 230$pc) open cluster, Blanco1.  A total of 644 member candidates are identified via the unsupervised machine learning method StarGO to find the clustering in the 5-dimensional position and proper motion parameter ($X$, $Y$, $Z$, $\mu_\alpha \cos\delta$, $\mu_\delta$) space. Within the tidal radius of $10.0 \pm 0.3$pc, there are 488 member candidates, 3 times more than those outside. Seen toward the Galactic South Pole, Blanco\,1 renders a vintage view of its morphology in the Galactic plane. A leading tail and a trailing tail, each of 50--60pc, are found for the first time for this cluster, with stars further from the cluster center streaming away faster, manifest stellar stripping. Blanco1 has a total detected mass of $285\pm32$ M$_{\odot}$ with a mass function consistent with a slope of $\alpha=1.35\pm0.2$ in the sense of $dN/dm \propto m^{-\alpha}$, in the mass range of $0.25$--$2.51$ M$_{\odot}$, where $N$ is the number of members and $m$ is stellar mass. A Minimum Spanning Tree ($\Lambda_{\rm MSR}$) analysis shows the cluster to be moderately mass segregated among the most massive members ($\gtrsim 1.4$ M$_{\odot}$), suggesting an early stage of dynamical disintegration.
 
 # Summary. An optional shortened abstract.
-summary: "The Astrophysical Journal (accepted)"
+summary: "The Astrophysical Journal 889:2"
 
 tags:
 - Source Themes
@@ -34,9 +34,9 @@ featured: false
 
 links:
 - name: ADS
-  url: https://ui.adsabs.harvard.edu/abs/2019arXiv191206657Z/abstract
-- name: ApJ (accepted)
-#  url: " "
+  url: https://ui.adsabs.harvard.edu/abs/2020ApJ...889...99Z/abstract
+- name: ApJ 889:2
+  url: https://iopscience.iop.org/article/10.3847/1538-4357/ab63d4/pdf
 - name: arXiv:1912.06657
   url: https://arxiv.org/abs/1912.06657
 
