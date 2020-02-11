@@ -8,7 +8,7 @@ authors:
 - "J. Z. Liu"
 
 date: "2020-01-29T00:00:00Z"
-doi: "10.3847/1538-4357/ab63d4"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-29T00:00:00Z"
