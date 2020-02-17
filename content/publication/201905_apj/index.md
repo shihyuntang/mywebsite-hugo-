@@ -56,7 +56,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: tang et al. 2019. 3D spatial, PM, and RV plot for Coma Ber & Group-X.'
+  caption: 'Image credit: Tang et al. 2019. 3D spatial, PM, and RV plot for Coma Ber & Group-X.'
   focal_point: ""
   preview_only: false
 

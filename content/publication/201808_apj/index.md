@@ -53,7 +53,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: tang et al. 2018. M8, L1, and L4 spectra of the brown dwarf member candidtes of Coma Ber'
+  caption: 'Image credit: Tang et al. 2018. M8, L1, and L4 spectra of the brown dwarf member candidtes of Coma Ber'
   focal_point: ""
   preview_only: false
 
