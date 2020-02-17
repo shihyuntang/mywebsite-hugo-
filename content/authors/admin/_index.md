@@ -14,13 +14,14 @@ role: Department of Astronomy and Planetary Science
 
 # Organizations/Affiliations
 organizations:
-- name: NAU / Lowell Observatory
+- name: Northern Arizona University / Lowell Observatory
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- IR spectra study of young stellar object/disk and possible planet formation
 - Atmosphere of brown dwarfs and planetary objects
 - Milky Way dynamics
 - Stellar population identification for star clusters and moving groups
@@ -28,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D., Astronomy and Planetary Science
+  - course: PhD, Astronomy and Planetary Science
     institution: Northern Arizona University
     year: 2020.01 - Current
   - course: M.S., Physics
@@ -48,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'sytang@nau.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'sytang@lowell.edu'  # For a direct email link, use "mailto:test@example.org".
   #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab

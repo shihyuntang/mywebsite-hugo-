@@ -35,7 +35,7 @@ featured: false
 links:
 - name: ADS
   url: https://ui.adsabs.harvard.edu/abs/2020ApJ...889...99Z/abstract
-- name: ApJ 889:2
+- name: ApJ 889:99
   url: https://iopscience.iop.org/article/10.3847/1538-4357/ab63d4/pdf
 - name: arXiv:1912.06657
   url: https://arxiv.org/abs/1912.06657
