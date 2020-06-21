@@ -18,6 +18,7 @@
 {{ else if eq $item.Type "publication" }}
   {{ $show_authors = true }}
   {{ $show_buttons = true }}
+  {{ $show_date = true }}
 {{ else if eq $item.Type "project" }}
   {{ $icon_pack = "fas" }}
   {{ $icon = "fa-project-diagram" }}
@@ -40,10 +41,6 @@
     {{ end }}
   </div>
   {{ end }}
-
-  <div class="article-metadata">
-    {{ partial "page_metadata_publishDate" $item }}
-  </div>
 
   {{ if and $show_authors $item.Params.authors }}
   <div class="article-metadata">
