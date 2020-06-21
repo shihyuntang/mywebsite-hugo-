@@ -5,12 +5,13 @@
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
   <a href="{{ .RelPermalink }}">{{ .Title }}</a>.<br>
+  <p style= "font-size:15px;">
   {{ if .Params.publication_short }}
   ({{- .Params.publication_short | markdownify -}})
   {{ else if .Params.publication }}
   {{- .Params.publication | markdownify -}}
   {{ end }}
-  <p style= "font-size:5px;">({{- .Date.Format "2006-01-02" -}})</p><br>
+  ({{- .Date.Format "2006-01-02" -}})</p><br>
   <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 
   <span class="article-metadata li-cite-author">
