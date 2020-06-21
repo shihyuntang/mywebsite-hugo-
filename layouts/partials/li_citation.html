@@ -6,17 +6,17 @@
 
 
   <a href="{{ .RelPermalink }}">{{ .Title }}</a>.<br>
-  ({{- .Date.Format "2006-01-02" -}})<br>
-  <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" . }}
-  </span>
-
   {{ if .Params.publication_short }}
   ({{- .Params.publication_short | markdownify -}})
   {{ else if .Params.publication }}
   {{- .Params.publication | markdownify -}}.
   {{ end }}
+  ({{- .Date.Format "2006-01-02" -}})<br>
   <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
+
+  <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" . }}
+  </span>
 
   {{/* MLA Style */}}
   {{ else }}
