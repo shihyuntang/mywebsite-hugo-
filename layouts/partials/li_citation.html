@@ -11,9 +11,9 @@
   {{ else if .Params.publication }}
   {{- .Params.publication | markdownify -}}
   {{ end }}
-  ({{- .Date.Format "2006-01-02" -}})</font><br>
+  ({{- .Date.Format "2006-01-02" -}})</font>
   <a style="font-size: 15px"; class="article-metadata li-cite-author">
-     &nbsp;&nbsp;&nbsp;&nbsp;{{ partial "page_metadata_authors" . }}</a>
+     {{ partial "page_metadata_authors" . }}</a>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 
 
