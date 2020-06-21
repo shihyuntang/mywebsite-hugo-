@@ -4,7 +4,7 @@
   {{/* APA Style */}}
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>.<br>
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
   <font size="2">
   {{ if .Params.publication_short }}
   ({{- .Params.publication_short | markdownify -}})
