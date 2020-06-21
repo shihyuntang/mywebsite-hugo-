@@ -12,7 +12,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{- .Params.publication | markdownify -}}
   {{ end }}
   ({{- .Date.Format "2006-01-02" -}})</font><br>
-  <a class="article-metadata li-cite-author">
+  <a style="font-size: 12px"; class="article-metadata li-cite-author">
      &nbsp;&nbsp;&nbsp;&nbsp;{{ partial "page_metadata_authors" . }}</a>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 
