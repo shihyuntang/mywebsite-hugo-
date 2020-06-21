@@ -34,7 +34,7 @@ summary: "The Astrophysical Journal 877:12 (12pp)"
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: ADS
