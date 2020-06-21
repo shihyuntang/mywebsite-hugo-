@@ -10,7 +10,7 @@
   {{ else if .Params.publication }}
   {{- .Params.publication | markdownify -}}
   {{ end }}
-  <p style= "font-size:18px;">({{- .Date.Format "2006-01-02" -}})</p><br>
+  <p style= "font-size:5px;">({{- .Date.Format "2006-01-02" -}})</p><br>
   <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 
   <span class="article-metadata li-cite-author">
