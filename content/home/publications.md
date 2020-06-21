@@ -67,4 +67,4 @@ subtitle = ""
 +++
 
 <!-- Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}). -->
-You can the full publication list at [ADS](https://ui.adsabs.harvard.edu/public-libraries/PlDrRv2zRGy3p53kCUbDPQ)
+You can find the full publication list at [ADS](https://ui.adsabs.harvard.edu/public-libraries/PlDrRv2zRGy3p53kCUbDPQ)
