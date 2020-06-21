@@ -9,7 +9,7 @@
   {{ if .Params.publication_short }}
   ({{- .Params.publication_short | markdownify -}})
   {{ else if .Params.publication }}
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{- .Params.publication | markdownify -}}
+  {{- .Params.publication | markdownify -}}
   {{ end }}
   ({{- .Date.Format "2006-01-02" -}})</font><br>
   <a style="font-size: 15px"; class="article-metadata li-cite-author">
