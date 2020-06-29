@@ -30,7 +30,9 @@ abstract: We have identified stellar and substellar members in the nearby star c
 summary: "The Astrophysical Journal 862:106 (28pp)"
 
 tags:
-- Source Themes
+- Open Cluster
+- Coma Ber
+- Brown Dwarf
 featured: false
 
 links:

@@ -29,7 +29,9 @@ abstract: We present the stellar population, using Gaia/DR2 parallax, kinematics
 summary: "The Astrophysical Journal 889:99 (12pp)"
 
 tags:
-- Source Themes
+- Open Cluster
+- Blanco 1
+- Tidal tails
 featured: false
 
 links:

@@ -33,7 +33,9 @@ abstract: We report the discovery of tidal structures around the intermediate-ag
 summary: "The Astrophysical Journal 877:12 (12pp)"
 
 tags:
-- Source Themes
+- Open Cluster
+- Coma Ber
+- Tidal tails
 featured: true
 
 links:

@@ -29,7 +29,8 @@ abstract: Comming up sonn!
 summary: "Submitted to The Astrophysical Journal Letter"
 
 tags:
-- Source Themes
+- Open Cluster
+- NGC 2232
 featured: false
 
 links:
