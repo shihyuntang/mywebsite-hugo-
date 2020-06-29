@@ -11,7 +11,7 @@ date: "2020-06-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-28T00:00:00Z"
+publishDate: "2020-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,13 +20,13 @@ publishDate: "2020-06-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to The Astrophysical Journal"
+publication: "Submitted to The Astronomical Journal"
 publication_short: ""
 
 abstract: Comming up sonn!
 
 # Summary. An optional shortened abstract.
-summary: "Submitted to The Astrophysical Journal"
+summary: "Submitted to The Astronomical Journal"
 
 tags:
 - LAMOST
