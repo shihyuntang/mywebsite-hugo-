@@ -32,7 +32,7 @@ tags:
 - Open Cluster
 - Blanco 1
 - Tidal tails
-featured: false
+featured: true
 
 links:
 - name: ADS
