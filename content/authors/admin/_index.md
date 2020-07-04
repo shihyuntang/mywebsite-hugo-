@@ -14,7 +14,9 @@ role: Department of Astronomy and Planetary Science
 
 # Organizations/Affiliations
 organizations:
-- name: Northern Arizona University / Lowell Observatory
+- name: Northern Arizona University / Lowell Observatory1
+  url: ""
+- name: Northern Arizona University / Lowell Observatory2
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
