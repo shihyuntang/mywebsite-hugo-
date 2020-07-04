@@ -2,11 +2,11 @@
 title: "Characterization of Stellar and Substellar Members in the Coma Berenices Star Cluster"
 authors:
 - admin
-- "Chen, W. P."
-- "Chiang, P. S."
-- "Jose, Jessy"
-- "Herczeg, Gregory J."
-- "Goldman, Bertrand"
+- "W. P. Chen"
+- "P. S. Chiang"
+- "Jessy Jose"
+- "Gregory J. Herczeg"
+- "Bertrand Goldman"
 
 date: "2018-08-01T00:00:00Z"
 doi: ""

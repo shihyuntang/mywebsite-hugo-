@@ -2,14 +2,14 @@
 title: "Discovery of Tidal Tails in Disrupting Open Clusters: Coma Berenices and a Neighbor Stellar Group"
 authors:
 - admin
-- "Pang, Xiaoying"
-- "Yuan, Zhen"
-- "Chen, W. P."
-- "Hong, Jongsuk"
-- "Goldman, Bertrand"
-- "Just, Andreas"
-- "Shukirgaliyev, Bekdaulet"
-- "Lin, Chien-Cheng"
+- "Xiaoying Pang"
+- "Zhen Yuan"
+- "W. P. Chen"
+- "Jongsuk Hong"
+- "Bertrand Goldman"
+- "Andreas Just"
+- "Bekdaulet Shukirgaliyev"
+- "Chien-Cheng Lin"
 
 date: "2019-05-17T00:00:00Z"
 doi: ""
