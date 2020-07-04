@@ -88,6 +88,6 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Shih-Yun Tang (湯士昀), a graduate student from Taiwan studying at the Northern Arizona University Department of Astronomy and Planetary Science. I am working with Dr. Lisa Prato (Lowell Observatory) on young stellar objects' (T-Tauri stars) IR spectra. Meanwhile, I am also working with Prof. Tyler Robinson on brown dwarf atmosphere.
+Hi, I am Shih-Yun Tang (湯士昀), a graduate student from Taiwan studying at the Northern Arizona University (NAU) Department of Astronomy and Planetary Science. I am working with Dr. Lisa Prato (Lowell Observatory) on young stellar objects' (T-Tauri stars) IR spectra. Meanwhile, I am also working with Prof. Tyler Robinson on brown dwarf atmosphere.
 
-I completed both of my B.A. and M.S. in Physics at the National Central University, Taiwan. My first research project was to characterize the stellar and substellar members in the Coma Berenices star cluster with prof. Wen-Ping Chen. From there, I learn how to play around with the CDS database and also IR spectrum.
+I completed both of my B.A. and M.S. in Physics at the National Central University (NCU), Taiwan. My first research project was to characterize the stellar and substellar members in the Coma Berenices star cluster with prof. Wen-Ping Chen. I learn how to play with the CDS database and also IR spectrum during my time in NCU.
