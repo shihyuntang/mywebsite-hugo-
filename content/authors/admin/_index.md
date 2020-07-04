@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Department of Astronomy and Planetary Science
+role: PhD Student at Dept. of Astronomy and Planetary Science
 
 # Organizations/Affiliations
 organizations:
@@ -56,9 +56,6 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/shihyuntang
@@ -68,6 +65,9 @@ social:
 - icon: ads
   icon_pack: ai
   link: https://ui.adsabs.harvard.edu/public-libraries/PlDrRv2zRGy3p53kCUbDPQ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=zh-TW&authuser=4&user=VrGP728AAAAJ
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/a/tang_s_2.html
