@@ -67,6 +67,7 @@ subtitle = ""
 +++
 
 <!-- Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}). -->
-Find the full publication list at [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/PlDrRv2zRGy3p53kCUbDPQ)
-or [Google Scholar](https://scholar.google.com/citations?hl=zh-TW&authuser=4&user=VrGP728AAAAJ).
+Below only list publication that I had been highly involved. The full publication list can be found at
+[NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/PlDrRv2zRGy3p53kCUbDPQ) or
+[Google Scholar](https://scholar.google.com/citations?hl=zh-TW&authuser=4&user=VrGP728AAAAJ).
 (Last updated on July 4, 2020.)
