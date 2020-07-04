@@ -14,13 +14,13 @@ role: Department of Astronomy and Planetary Science
 
 # Organizations/Affiliations
 organizations:
-- name: Northern Arizona University / Lowell Observatory1
-  url: ""
-- name: Northern Arizona University / Lowell Observatory2
-  url: ""
+- name: Lowell Observatory
+  url: "https://lowell.edu"
+- name: Northern Arizona University
+  url: "https://nau.edu/astronomy-and-planetary-science"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include OC dynamics and planets around young stars.
 
 interests:
 - IR spectra study of young stellar object/disk and possible planet formation
@@ -32,7 +32,7 @@ interests:
 education:
   courses:
   - course: PhD, Astronomy and Planetary Science
-    institution: Northern Arizona University
+    institution: Northern Arizona University, USA
     year: 2020.01 - Current
   - course: M.S., Physics
     institution: National Central University, Taiwan
