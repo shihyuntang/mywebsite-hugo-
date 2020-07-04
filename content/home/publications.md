@@ -70,4 +70,4 @@ subtitle = ""
 Find the full publication list at [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/PlDrRv2zRGy3p53kCUbDPQ)
 or [Google Scholar](https://scholar.google.com/citations?hl=zh-TW&view_op=list_works&authuser=4&gmla=AJsN-F7GUt8SOgyalVKE6ABUBHZYlt3DWIG8tvQMo5XqQ-bb1z4kGAHbmXbpV75EloxVKUWNNNtUZV7zbC2LJv9HiVjGEFe73YK6BBpZjJZx4pl2Pr2Rxeo&user=VrGP728AAAAJ).
 
-"{{ .Title }}" was last updated on {{ .Lastmod.Format "January 2, 2006" }}: {{ .GitInfo.Subject }} ({{ .GitInfo.AbbreviatedHash }})
+(Last updated on July 4, 2020.)
