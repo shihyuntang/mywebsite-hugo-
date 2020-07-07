@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: "Submitted to The Astrophysical Journal Letter"
 publication_short: ""
 
-abstract: Comming up sonn!
+abstract: Coming up soon!
 
 # Summary. An optional shortened abstract.
 summary: "Submitted to The Astrophysical Journal Letter"
