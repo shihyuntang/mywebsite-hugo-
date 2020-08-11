@@ -33,12 +33,12 @@ I hope you enjoy it.
 ### Course Layout
 * Python 101
     * 1-1 Installation
-    * 1-2 IDE short introduction (.py vs. .ipynb)
-    * 1-3 HW1 (basic function)
+    * 1-2 IDE Short Introduction (ipython, jupyter notebook, jupyter lab)
+    * 1-3 HW1 (basic function, operation, and print)
     * 1-4 HW2 (plotting)
 * Terminal 101
-    * 2-1 HW 3
-    * 2-2 HW 4
+    * 2-1 HW 3 (bash)
+    * 2-2 HW 4 (ssh, scp)
 * Astro-data Query
     * 2-3 CDS introduction (simbad & vizier)
     * 2-4 ADS introduction
