@@ -40,3 +40,6 @@ After going through this series of tutorials, you will learn basic skills to do 
 * Almost ready to go!
     * 2-6 HW 6
     * 2-7 HW 7
+
+### Symbols
+You will 
