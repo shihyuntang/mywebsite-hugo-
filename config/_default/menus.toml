@@ -29,13 +29,13 @@
  weight = 15
 
 [[main]]
- name = "Courses"
- url = "courses/"
- weight = 25
-
-[[main]]
   name = "Contact"
   url = "#contact"
+  weight = 25
+
+ [[main]]
+  name = "Tutorials"
+  url = "tutorials/"
   weight = 30
 
 # Link to a PDF of your resume/CV from the menu.
