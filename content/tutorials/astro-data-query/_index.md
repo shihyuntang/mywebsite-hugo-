@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Basic Astrophysics Data Analysis Tutorials
-summary: For people who are new to this field and want to get their hands dirty ASAP.
+summary: For people who are new to this field and want to get their hands dirty ASAP (e.g., summer intern, lab newcomers).
 weight: 1
 
 # Page metadata.
@@ -21,42 +21,22 @@ menu:
     weight: 1
 ---
 
-## Flexibility
+After going through this series of tutorials, you will learn basic skills to do astro-data analysis with `python.` We will start from the very beginning, installation of python (conda), and then step by step to help you get to a level to do basic cluster member selection. Another major part of this tutorial will be focusing on data visualization. Hope you enjoy.
 
-This feature can be used for publishing content such as:
+### Course Layout
+* Python 101
+    * Install python via Conda
+    * IDE short introduction (.py vs. .ipynb)
+    * HW1 (basic function)
+    * HW2 (plotting)
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
+* Terminal 101
+    * HW 3
+    * HW 4
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+* Astro-data Query
+    * CDS introduction (simbad & vizier)
+    * ADS introduction
+    * HW 5
 
-## Delete tutorials
-
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
-
-## Update site menu
-
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+* 
