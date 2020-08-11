@@ -29,19 +29,13 @@ After going through this series of tutorials, you will learn basic skills to do 
     * 1-2 IDE short introduction (.py vs. .ipynb)
     * 1-3 HW1 (basic function)
     * 1-4 HW2 (plotting)
-
-
 * Terminal 101
     * 2-1 HW 3
     * 2-2 HW 4
-
-
 * Astro-data Query
     * 2-3 CDS introduction (simbad & vizier)
     * 2-4 ADS introduction
     * 2-5 HW 5
-
-
 * Almost ready to go!
     * 2-6 HW 6
     * 2-7 HW 7
