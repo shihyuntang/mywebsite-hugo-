@@ -22,11 +22,11 @@ menu:
 ---
 
 ## Tutorials for Basic Astrophysics Data Analysis (python)
-After going through this series of tutorials, you will learn basic skills to do astro-data analysis with `python`. We will start from the very beginning, installation of python (conda), and then step by step to help you get to a level to do basic cluster member selection. Another major part of this tutorial will be focusing on data visualization. Hope you enjoy.
+After going through this series of tutorials, you will learn basic skills to do astro-data analysis with `python`. We will start from the very beginning, installation of python (conda), and then step by step to help you get to a level to do basic cluster member selection. Another major part of this tutorial will be focusing on data visualization. Hope you enjoy it.
 
 ### Course Layout
 * Python 101
-    * 1-1 Install python via Conda
+    * 1-1 Installation
     * 1-2 IDE short introduction (.py vs. .ipynb)
     * 1-3 HW1 (basic function)
     * 1-4 HW2 (plotting)
