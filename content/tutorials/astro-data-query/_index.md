@@ -22,7 +22,13 @@ menu:
 ---
 
 ## Tutorials for Basic Astrophysics Data Analysis (python)
-After going through this series of tutorials, you will learn basic skills to do astro-data analysis with `python`. We will start from the very beginning, installation of python (conda), and then step by step to help you get to a level to do basic cluster member selection. Another major part of this tutorial will be focusing on data visualization. Hope you enjoy it.
+After going through this series of tutorials, you will learn basic skills to do astro-data analysis with `python`. We will start from the very beginning, installing python (Anaconda), and then step by step to help you reach the level of doing star cluster member selection. Another major part of this tutorial will be focusing on data visualization.
+
+Be aware that detailed steps will not always be provided. However, you will always see keywords around for you to **google** them out. The ability to find relevant information on the internet for answers you are seeking for is critical, and you can always learn new things during the search. Therefore, I decided not to take away the joy and excitement from you!
+
+In each tutorial, you will find a **Learn More** section, which listed questions for you to explore. Question with \*\* means that I strongly recommended you to look it out. Those with only one \* means it might be too detailed, and it is fine for you to skip it.
+
+I hope you enjoy it.
 
 ### Course Layout
 * Python 101
@@ -42,4 +48,4 @@ After going through this series of tutorials, you will learn basic skills to do 
     * 2-7 HW 7
 
 ### Symbols
-You will 
+You will
