@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: Basic Astrophysics Data Analysis Tutorials
-summary: For people who are new to this field and want to get their hands dirty ASAP (e.g., summer intern, lab newcomers).
+linktitle: Tutorials for Basic Astrophysics Data Analysis (python)
+summary: This tutorial contains python 101, terminal 101, and data query 101 for those new to this field and want to get their hands dirty ASAP (e.g., for summer intern students, lab newcomers, or people who want to switch to python).
 weight: 1
 
 # Page metadata.
@@ -21,6 +21,7 @@ menu:
     weight: 1
 ---
 
+## Tutorials for Basic Astrophysics Data Analysis (python)
 After going through this series of tutorials, you will learn basic skills to do astro-data analysis with `python`. We will start from the very beginning, installation of python (conda), and then step by step to help you get to a level to do basic cluster member selection. Another major part of this tutorial will be focusing on data visualization. Hope you enjoy.
 
 ### Course Layout
