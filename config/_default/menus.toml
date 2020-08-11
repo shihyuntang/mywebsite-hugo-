@@ -21,12 +21,12 @@
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 10
+  weight = 15
 
 [[main]]
  name = "Projects"
  url = "#projects"
- weight = 15
+ weight = 10
 
 #[[main]]
 #  name = "Courses"
