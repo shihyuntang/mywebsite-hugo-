@@ -1,5 +1,5 @@
 ---
-title: IGRINS NIR RV
+title: Near-Infrared Radial Velocity pipeline (IGRINS_RV)
 summary: Near infrared radial velocity pipeline for IGRINS instrument.
 tags:
 - python
@@ -30,4 +30,4 @@ url_video: ""
 # slides: example
 ---
 
-Comming Soon.
+Coming Soon...
