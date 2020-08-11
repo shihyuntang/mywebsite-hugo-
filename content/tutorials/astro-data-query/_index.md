@@ -39,4 +39,6 @@ After going through this series of tutorials, you will learn basic skills to do 
     * ADS introduction
     * HW 5
 
-* 
+* Almost ready to go!
+    * HW 6
+    * HW 7
