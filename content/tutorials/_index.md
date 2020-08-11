@@ -1,5 +1,5 @@
 ---
-title: Tutorials for Basic Astrophysics Data Analysis
+title: Tutorials
 layout: docs  # Do not modify.
 
 # Optional header image (relative to `static/img/` folder).
