@@ -46,6 +46,3 @@ I hope you enjoy it.
 * Almost ready to go!
     * 2-6 HW 6
     * 2-7 HW 7
-
-### Symbols
-You will
