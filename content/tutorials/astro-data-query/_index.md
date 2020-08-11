@@ -25,20 +25,20 @@ After going through this series of tutorials, you will learn basic skills to do 
 
 ### Course Layout
 * Python 101
-    * Install python via Conda
-    * IDE short introduction (.py vs. .ipynb)
-    * HW1 (basic function)
-    * HW2 (plotting)
+    * 1-1 Install python via Conda
+    * 1-2 IDE short introduction (.py vs. .ipynb)
+    * 1-3 HW1 (basic function)
+    * 1-4 HW2 (plotting)
 
 * Terminal 101
-    * HW 3
-    * HW 4
+    * 2-1 HW 3
+    * 2-2 HW 4
 
 * Astro-data Query
-    * CDS introduction (simbad & vizier)
-    * ADS introduction
-    * HW 5
+    * 2-3 CDS introduction (simbad & vizier)
+    * 2-4 ADS introduction
+    * 2-5 HW 5
 
 * Almost ready to go!
-    * HW 6
-    * HW 7
+    * 2-6 HW 6
+    * 2-7 HW 7
