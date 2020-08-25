@@ -31,7 +31,7 @@ summary: "The Astrophysical Journal Letters 900:L4 (10pp)"
 tags:
 - Open Cluster
 - NGC 2232
-featured: false
+featured: true
 
 links:
 - name: ADS
