@@ -15,10 +15,10 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-menu:
-  example:
-    name: SPIRL
-    weight: 1
+#menu:
+#  example:#
+#    name: SPIRL
+#    weight: 1
 ---
 
 [Scientific Programming in Real Life](https://cjtu.github.io/spirl/about.html)
