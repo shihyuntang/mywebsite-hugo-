@@ -21,4 +21,6 @@ type: docs  # Do not modify.
 #    weight: 1
 ---
 
+A working on project by Christian Tai Udovicic to give scientists practical programming concepts in a hurry.
+
 [Scientific Programming in Real Life](https://cjtu.github.io/spirl/about.html)
