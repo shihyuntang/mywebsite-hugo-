@@ -9,7 +9,7 @@ title: SPIRL
 date: "2020-09-05T00:00:00Z"
 lastmod: "2020-09-05T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: false  # Show table of contents? true/false
+toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -17,8 +17,8 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: SPIRL
-    weight: 5
+    name: SpIRL
+    weight: 1
 ---
 
 A working on project by Christian Tai Udovicic to give scientists practical programming concepts in a hurry.
