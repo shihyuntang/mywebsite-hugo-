@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Scientific Programming in Real Life (SPIRL)
+linktitle: Scientific Programming in Real Life (SpIRL)
 summary: A working on project by Christian Tai Udovicic to give scientists practical programming concepts in a hurry.
 weight: 1
 
