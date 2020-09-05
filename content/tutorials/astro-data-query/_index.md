@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Tutorials for Basic Astrophysics Data Analysis (python)
 summary: This tutorial contains python 101, terminal 101, and data query 101 for those new to this field and want to get their hands dirty ASAP (e.g., for summer intern students, lab newcomers, or people who want to switch to python).
-weight: 1
+weight: 2
 
 # Page metadata.
 title: Overview

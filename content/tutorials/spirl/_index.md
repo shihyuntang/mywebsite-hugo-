@@ -1,15 +1,15 @@
 ---
 # Course title, summary, and position.
-linktitle: Scientific Programming in Real Life
-summary: This tutorial contains python 101, terminal 101, and data query 101 for those new to this field and want to get their hands dirty ASAP (e.g., for summer intern students, lab newcomers, or people who want to switch to python).
+linktitle: Scientific Programming in Real Life (SPIRL)
+summary: A working on project by Christian Tai Udovicic to give scientists practical programming concepts in a hurry.
 weight: 1
 
 # Page metadata.
-title: Overview
-date: "2020-08-11T00:00:00Z"
-lastmod: "2020-08-11T00:00:00Z"
+title: SPIRL
+date: "2020-09-05T00:00:00Z"
+lastmod: "2020-09-05T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Overview
+    name: SPIRL
     weight: 1
 ---
 
