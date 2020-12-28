@@ -137,7 +137,6 @@
 </a>
 {{ end }}
 -->
-
 {{ range $page.Params.links }}
   {{ $pack := or .icon_pack "fas" }}
   {{ $pack_prefix := $pack }}
@@ -162,6 +161,7 @@
     {{ with .name }}{{ . | safeHTML }}{{end}}
   </a>
 {{ end }}
+
 <!-- Dimension Badge Added -->
 <span
   class="__dimensions_badge_embed__"
@@ -169,9 +169,9 @@
   data-style="large_rectangle"
   data-hide-zero-citations="true"
 ></span>
-<!-- Dimension Badge Added -->
 <script
   async
   src="https://badge.dimensions.ai/badge.js"
   charset="utf-8"
 ></script>
+<!-- Dimension Badge Added -->
