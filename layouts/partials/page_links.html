@@ -129,22 +129,24 @@
 {{ end }}
 
 
-{{ with $page.Params.doi }}
+
 <!--
+{{ with $page.Params.doi }}
 <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
   DOI
 </a>
+{{ end }}
 -->
 <!-- Dimension Badge Added -->
 <span
   style="white-space: normal;"
   class="__dimensions_badge_embed__"
-  data-doi="{{ . }}"
+  data-doi="{{$page.Params.doi}}"
   data-style="large_rectangle"
   data-hide-zero-citations="true"
 ></span>
 <!-- Dimension Badge Added -->
-{{ end }}
+
 
 {{ range $page.Params.links }}
   {{ $pack := or .icon_pack "fas" }}
