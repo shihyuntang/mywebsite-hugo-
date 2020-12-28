@@ -138,6 +138,7 @@
 {{ end }}
 -->
 
+<nobr>
 {{ range $page.Params.links }}
   {{ $pack := or .icon_pack "fas" }}
   {{ $pack_prefix := $pack }}
@@ -170,6 +171,7 @@
   data-style="large_rectangle"
   data-hide-zero-citations="true"
 ></span>
+</nobr>
 <!-- Dimension Badge Added -->
 <script
   async
