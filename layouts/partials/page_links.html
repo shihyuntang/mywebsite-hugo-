@@ -129,10 +129,6 @@
 {{ end }}
 
 
-<style>
-.nobr { white-space: nowrap }
-</style>
-
 {{ with $page.Params.doi }}
 <!--
 <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
@@ -141,7 +137,7 @@
 -->
 <!-- Dimension Badge Added -->
 <span
-  style="white-space: nowrap;"
+  style="white-space: normal;"
   class="__dimensions_badge_embed__"
   data-doi="{{ . }}"
   data-style="large_rectangle"
