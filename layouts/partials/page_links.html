@@ -128,6 +128,10 @@
 </a>
 {{ end }}
 
+
+<style>
+.nobr { white-space: nowrap }
+</style>
 {{ range $page.Params.links }}
   {{ $pack := or .icon_pack "fas" }}
   {{ $pack_prefix := $pack }}
@@ -160,9 +164,6 @@
 </a>
 -->
 <!-- Dimension Badge Added -->
-<style>
-.nobr { white-space: nowrap }
-</style>
 <span
   class="__dimensions_badge_embed__"
   data-doi="{{ . }}"
