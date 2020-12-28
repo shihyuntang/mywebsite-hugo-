@@ -142,13 +142,12 @@
   data-doi="{{ . }}"
   data-style="large_rectangle"
   data-hide-zero-citations="true"
->&nbsp;</span>
+></span>
 <script
   async
   src="https://badge.dimensions.ai/badge.js"
   charset="utf-8"
 ></script>
-&nbsp;
 <!-- Dimension Badge Added -->
 {{ end }}
 
@@ -171,7 +170,6 @@
   {{ else if in (slice "http" "https") $scheme }}
     {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
   {{ end }}
-  &nbsp;
   <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
     {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
     {{ with .name }}{{ . | safeHTML }}{{end}}
