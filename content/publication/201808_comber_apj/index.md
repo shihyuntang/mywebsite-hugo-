@@ -9,7 +9,7 @@ authors:
 - "Bertrand Goldman"
 
 date: "2018-08-01T00:00:00Z"
-doi: ""
+doi: "10.3847/1538-4357/aacb7a"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-07-27T00:00:00Z"
