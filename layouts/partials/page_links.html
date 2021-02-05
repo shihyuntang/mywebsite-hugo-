@@ -163,6 +163,7 @@
 {{ end }}
 
 <!-- Dimension Badge Added -->
+{{ if $page.Params.doi !== "" }}
 <span
   class="__dimensions_badge_embed__"
   data-doi="{{$page.Params.doi}}"
@@ -174,4 +175,5 @@
   src="https://badge.dimensions.ai/badge.js"
   charset="utf-8"
 ></script>
+{{ end }}
 <!-- Dimension Badge Added -->
