@@ -163,7 +163,7 @@
 {{ end }}
 
 <!-- Dimension Badge Added -->
-{{ if $page.Params.doi !== "" }}
+{{ if not eq $page.Params.doi "" }}
 <span
   class="__dimensions_badge_embed__"
   data-doi="{{$page.Params.doi}}"
