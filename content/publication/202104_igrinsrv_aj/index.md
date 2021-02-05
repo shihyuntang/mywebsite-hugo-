@@ -1,5 +1,5 @@
 ---
-title: "`IGRINS RV`: A Precision RV Pipeline for IGRINS Using Modified Forward-Modeling in the Near-Infrared"
+title: "IGRINS RV: A Precision RV Pipeline for IGRINS Using Modified Forward-Modeling in the Near-Infrared"
 authors:
 - "Asa G. Stahl"
 - admin

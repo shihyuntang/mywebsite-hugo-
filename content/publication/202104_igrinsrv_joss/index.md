@@ -1,8 +1,8 @@
 ---
 title: "IGRINS RV: A Python Package for Precision Radial Velocities with Near-Infrared Spectra"
 authors:
-- "Asa G. Stahl"
 - admin
+- "Asa G. Stahl"
 - "Christopher M. Johns-Krull"
 - "L. Prato"
 - "Joe Llama"

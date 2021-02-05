@@ -56,7 +56,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  # text_color_light = true
 
 [advanced]
  # Custom CSS.
@@ -70,4 +70,4 @@ subtitle = ""
 Below only list publication that I had been highly involved. The full publication list can be found at
 [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/PlDrRv2zRGy3p53kCUbDPQ) or
 [Google Scholar](https://scholar.google.com/citations?hl=zh-TW&authuser=4&user=VrGP728AAAAJ).
-(Last updated on Aug. 9, 2020.)
+(Last updated on Feb. 5, 2021.)
