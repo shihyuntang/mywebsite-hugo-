@@ -37,7 +37,7 @@ featured: true
 
 links:
 - name: ADS
-  url:
+  url: https://ui.adsabs.harvard.edu/abs/2021arXiv210210508P/abstract
 - name: ApJ Accepted
   url:
 - name: arXiv:2102.10508
