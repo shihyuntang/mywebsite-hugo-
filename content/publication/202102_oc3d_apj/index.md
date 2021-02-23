@@ -5,7 +5,7 @@ authors:
 - "Yuqian Li"
 - "Zeqiu Yu"
 - admin
-- "Franti\v{s}ek Dinnbier"
+- "František Dinnbier"
 - "Pavel Kroupa"
 - "Mario Pasquato"
 - "M.B.N. Kouwenhoven"
