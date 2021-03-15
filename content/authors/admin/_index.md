@@ -20,12 +20,11 @@ organizations:
   url: "https://nau.edu/astronomy-and-planetary-science"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include OC dynamics and planets around young stars.
+bio: Interested in searching for the youngest exoplanets, modeling brown dwarf's atmosphere, and studying open cluster's dynamics.
 
 interests:
-- IR spectra study of young stellar object/disk and possible planet formation
-- Atmosphere of brown dwarfs and planetary objects
-- Milky Way dynamics
+- NIR spectra study of young stellar object/disk and looking for potential planet's with RV technique.
+- Modeling the atmosphere of brown dwarfs and planetary objects with 1D radiactive-convective model.
 - Stellar population identification for star clusters and moving groups
 - Searching/Characterizing brown dwarfs and exoplanet
 
@@ -88,6 +87,6 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Shih-Yun Tang (湯士昀), a graduate student from Taiwan studying at the Northern Arizona University (NAU) Department of Astronomy and Planetary Science. I am working with Dr. Lisa Prato (Lowell Observatory) on young stellar objects' (T-Tauri stars) IR spectra. Meanwhile, I am also working with Prof. Tyler Robinson on brown dwarf atmosphere.
+Hi, I am Shih-Yun Tang 湯士昀, a graduate student from Taiwan studying at the Northern Arizona University (NAU) Department of Astronomy and Planetary Science. I am working with Dr. Lisa Prato at the Lowell Observatory on using NIR and optical spectra to search for the youngest exoplanets around T-Tauri stars. Meanwhile, I am also working with Prof. Tyler Robinson at NAU on modeling ultracool objects' atmpsohere using 1D radiactive-convetive model. Lastly, as my side project, I am also working with Prof. Xiaoying Pang on using Gaia data to study stellar groups in the solar neighborhood.
 
-I completed both of my B.A. and M.S. in Physics at the National Central University (NCU), Taiwan. My first research project was to characterize the stellar and substellar members in the Coma Berenices star cluster with prof. Wen-Ping Chen. I learn how to play with the CDS database and also IR spectrum during my time in NCU.
+I completed both of my B.A. and M.S. in Physics at the National Central University (NCU), Taiwan. My first research project was to characterize the stellar and substellar members in the Coma Berenices star cluster with prof. Wen-Ping Chen. And later as my Matser thesis, I was amount the first to discover the tidal tails of Coma Berenices star cluster with Gaia DR2 data.
