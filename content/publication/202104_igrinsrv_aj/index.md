@@ -41,11 +41,11 @@ featured: false
 
 links:
 - name: ADS
- url: https://ui.adsabs.harvard.edu/abs/2021arXiv210402082S/abstract
+  url: https://ui.adsabs.harvard.edu/abs/2021arXiv210402082S/abstract
 - name: AJ Accepted
- url:
+  url:
 - name: arXiv:2104.02082
- url: https://arxiv.org/abs/2104.02082
+  url: https://arxiv.org/abs/2104.02082
 
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: ''
