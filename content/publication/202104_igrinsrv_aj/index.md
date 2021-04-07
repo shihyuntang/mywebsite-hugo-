@@ -25,13 +25,13 @@ publishDate: "2021-02-02T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Astronomical Journal (accetped)"
+publication: "Accepted by The Astronomical Journal"
 publication_short: ""
 
 abstract: Applications of the radial velocity (RV) technique to the near infrared (NIR) are valuable for their diminished susceptibility to the impact of stellar activity and their suitability for studying late-type stars. In this paper, we present the \texttt{IGRINS RV} open source \texttt{python} pipeline for computing infrared RV measurements from reduced spectra taken with IGRINS, a R$\equiv \lambda/\Delta \lambda \sim$45,000 spectrograph with simultaneous coverage of the H band (1.49--1.80 $\mu$m) and K band (1.96--2.46 $\mu$m). Using a modified forward modeling technique, we construct high resolution telluric templates from A0 standard observations on a nightly basis to provide a source of common-path wavelength calibration while mitigating the need to mask or correct for telluric absorption. A0 standard observations are also used to model the variations in instrumental resolution across the detector, including a yearlong period when the K band was defocused. Without any additional instrument hardware, such as a gas cell or laser frequency comb, we are able to achieve precisions of 26.8 \ms in the K band and 31.1 \ms in the H band for narrow-line hosts. These precisions are validated by a monitoring campaign of two RV standard stars as well as the successful retrieval of planet-induced RV signals for both HD\,189733 and $\tau$\,Boo\,A; furthermore, our results affirm the presence of the Rossiter-McLaughlin effect for HD\,189733. The \texttt{IGRINS RV} pipeline extends another important science capability to IGRINS, with publicly available software designed for widespread use.
 
 # Summary. An optional shortened abstract.
-summary: "The Astronomical Journal (accetped)"
+summary: "Accepted by The Astronomical Journal"
 
 tags:
 - radial velocities
@@ -42,8 +42,8 @@ featured: false
 links:
 - name: ADS
  url: https://ui.adsabs.harvard.edu/abs/2021arXiv210402082S/abstract
-#- name: ApJL 900:L4
-#  url: https://iopscience.iop.org/article/10.3847/2041-8213/abad28
+- name: AJ Accepted
+ url:
 - name: arXiv:2104.02082
  url: https://arxiv.org/abs/2104.02082
 
@@ -58,10 +58,10 @@ links:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-#  caption: 'Image credit: Figure 5 in Pang et al. 2020. Number density, mass density, and mean mass distributions along a clustercentric distance r for NGC 2232 (blue curves) and LP 2439 (red curves).'
-#  focal_point: ""
-#  preview_only: false
+image:
+ caption: 'Image credit: Figure 5 in Stahl et al. 2021. Final RVs for RV standard stars'
+ focal_point: ""
+ preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
