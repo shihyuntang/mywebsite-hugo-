@@ -37,7 +37,7 @@ tags:
 - radial velocities
 - IGRINS
 - planets and satellites detection
-featured: false
+featured: true
 
 links:
 - name: ADS
