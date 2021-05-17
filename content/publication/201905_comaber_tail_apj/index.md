@@ -42,7 +42,7 @@ links:
 - name: ADS
   url: https://ui.adsabs.harvard.edu/abs/2019ApJ...877...12T/abstract
 - name: ApJ 877:12
-  url: https://ui.adsabs.harvard.edu/link_gateway/2019ApJ...877...12T/PUB_HTML
+  url: https://iopscience.iop.org/article/10.3847/1538-4357/ab13b0
 - name: arXiv:1902.01404
   url: https://arxiv.org/abs/1902.01404
 

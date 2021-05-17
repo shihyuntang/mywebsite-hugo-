@@ -10,11 +10,11 @@ authors:
 - "Mario Pasquato"
 - "M.B.N. Kouwenhoven"
 
-date: "2021-02-18T00:00:00Z"
-doi: ""
+date: "2021-05-10T00:00:00Z"
+doi: "10.3847/1538-4357/abeaac"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-02-18T00:00:00Z"
+publishDate: "2021-05-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,13 +23,13 @@ publishDate: "2021-02-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted by The Astrophysical Journal"
+publication: "The Astrophysical Journal 912:162 (27pp)"
 publication_short: ""
 
 abstract: We analyze the 3D morphology and kinematics of 13 open clusters (OCs) located within 500 pc of the Sun, using Gaia EDR3 and kinematic data from literature. Members of OCs are identified using the unsupervised machine learning method StarGO, using 5D parameters ($X, Y, Z$, $\mu_\alpha \cos\delta, \mu_\delta$). The OC sample covers an age range of 25 Myr-2.65 Gyr. We correct the asymmetric distance distribution due to the parallax error using Bayesian inversion. The uncertainty in the corrected distance for a cluster at 500 pc is 3.0-6.3 pc, depending on the intrinsic spatial distribution of its members. We determine the 3D morphology of the OCs in our sample and fit the spatial distribution of stars within the tidal radius in each cluster with an ellipsoid model. The shapes of the OCs are well-described with oblate spheroids (NGC2547, NGC2516, NGC2451A, NGC2451B, NGC2232), prolate spheroids (IC2602, IC4665, NGC2422, Blanco1, Coma Berenices), or triaxial ellipsoids (IC2391, NGC6633, NGC6774). The semi-major axis of the fitted ellipsoid is parallel to the Galactic plane for most clusters. Elongated filament-like substructures are detected in three young clusters (NGC2232, NGC2547, NGC2451B), while tidal-tail-like substructures (tidal tails) are found in older clusters (NGC2516, NGC6633, NGC6774, Blanco1, Coma Berenices). Most clusters may be super-virial and expanding. $N$-body models of rapid gas expulsion with an SFE of $\sim 1/3$ are consistent with clusters more massive than $250 M_\odot$, while clusters less massive than 250$M_\odot$ tend to agree with adiabatic gas expulsion models. Only six OCs (NGC2422, NGC6633, and NGC6774, NGC2232, Blanco1, Coma Berenices) show clear signs of mass segregation.
 
 # Summary. An optional shortened abstract.
-summary: "Accepted by The Astrophysical Journal"
+summary: "The Astrophysical Journal 912:162 (27pp)"
 
 tags:
 - Open Cluster
@@ -38,8 +38,8 @@ featured: true
 links:
 - name: ADS
   url: https://ui.adsabs.harvard.edu/abs/2021arXiv210210508P/abstract
-- name: ApJ Accepted
-  url:
+- name: ApJ 912:162
+  url: https://iopscience.iop.org/article/10.3847/1538-4357/abeaac
 - name: arXiv:2102.10508
   url: http://arxiv.org/abs/2102.10508
 
