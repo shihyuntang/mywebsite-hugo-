@@ -31,7 +31,7 @@ summary: "The Astrophysical Journal (submitted)"
 
 tags:
 - Brown Dwarf
-- planet
+- Planet
 featured: false
 
 links:
