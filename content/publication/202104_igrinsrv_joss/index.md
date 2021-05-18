@@ -34,6 +34,8 @@ tags:
 featured: false
 
 links:
+- name: Github
+  url: https://github.com/shihyuntang/igrins_rv
 #- name: ADS
 #  url: https://ui.adsabs.harvard.edu/abs/2020arXiv200802803P/abstract
 #- name: ApJL 900:L4
