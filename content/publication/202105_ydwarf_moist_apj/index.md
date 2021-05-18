@@ -36,7 +36,7 @@ featured: false
 
 links:
 - name: ADS
-#  url: https://ui.adsabs.harvard.edu/abs/2020arXiv200802803P/abstract
+ url: https://ui.adsabs.harvard.edu/abs/2020arXiv200802803P/abstract
 - name: ApJ (submitted)
  url: https://arxiv.org/abs/2105.07000
 - name: arXiv:2105.07000
