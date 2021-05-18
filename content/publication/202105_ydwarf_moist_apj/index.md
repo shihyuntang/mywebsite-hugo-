@@ -35,13 +35,12 @@ tags:
 featured: false
 
 links:
+- name: ADS
+#  url: https://ui.adsabs.harvard.edu/abs/2020arXiv200802803P/abstract
+- name: ApJ (submitted)
+ url: https://arxiv.org/abs/2105.07000
 - name: arXiv:2105.07000
  url: https://arxiv.org/abs/2105.07000
-#- name: ADS
-#  url: https://ui.adsabs.harvard.edu/abs/2020arXiv200802803P/abstract
-#- name: ApJL 900:L4
-#  url: https://iopscience.iop.org/article/10.3847/2041-8213/abad28
-
 
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: ''
