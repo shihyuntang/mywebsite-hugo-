@@ -12,7 +12,7 @@ authors:
 - "Jessica Luna"
 - "Daniel T. Jaffe"
 
-date: "2021-04-04T00:00:00Z"
+date: "2021-05-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,13 +25,13 @@ publishDate: "2021-02-02T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted by The Astronomical Journal"
+publication: "The Astronomical Journal 161:283 (26pp)"
 publication_short: ""
 
 abstract: Applications of the radial velocity (RV) technique to the near infrared (NIR) are valuable for their diminished susceptibility to the impact of stellar activity and their suitability for studying late-type stars. In this paper, we present the IGRINS RV open source python pipeline for computing infrared RV measurements from reduced spectra taken with IGRINS, a R$\equiv \lambda/\Delta \lambda \sim$45,000 spectrograph with simultaneous coverage of the H band (1.49--1.80 µm) and K band (1.96--2.46 µm). Using a modified forward modeling technique, we construct high resolution telluric templates from A0 standard observations on a nightly basis to provide a source of common-path wavelength calibration while mitigating the need to mask or correct for telluric absorption. A0 standard observations are also used to model the variations in instrumental resolution across the detector, including a yearlong period when the K band was defocused. Without any additional instrument hardware, such as a gas cell or laser frequency comb, we are able to achieve precisions of 26.8 m/s in the K band and 31.1 m/s in the H band for narrow-line hosts. These precisions are validated by a monitoring campaign of two RV standard stars as well as the successful retrieval of planet-induced RV signals for both HD 189733 and $\tau$ Boo A; furthermore, our results affirm the presence of the Rossiter-McLaughlin effect for HD189733. The IGRINS RV pipeline extends another important science capability to IGRINS, with publicly available software designed for widespread use.
 
 # Summary. An optional shortened abstract.
-summary: "Accepted by The Astronomical Journal"
+summary: "The Astronomical Journal 161:283 (26pp)"
 
 tags:
 - radial velocities
@@ -42,8 +42,8 @@ featured: true
 links:
 - name: ADS
   url: https://ui.adsabs.harvard.edu/abs/2021arXiv210402082S/abstract
-- name: AJ Accepted
-  url:
+- name: AJ 161:283
+  url: https://iopscience.iop.org/article/10.3847/1538-3881/abf5e7
 - name: arXiv:2104.02082
   url: https://arxiv.org/abs/2104.02082
 
