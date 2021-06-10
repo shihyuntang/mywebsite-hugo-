@@ -39,7 +39,7 @@ links:
 #- name: ADS
 #  url: https://ui.adsabs.harvard.edu/abs/2020arXiv200802803P/abstract
 - name: JOSS 6:62
- url: https://joss.theoj.org/papers/10.21105/joss.03095#
+  url: https://joss.theoj.org/papers/10.21105/joss.03095#
 #- name: arXiv:2008.02803
 #  url: https://arxiv.org/abs/2008.02803
 
