@@ -20,13 +20,13 @@ publishDate: "2021-02-02T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Open Sourse Softerware (submitted)"
+publication: "Journal of Open Sourse Softerware 6:62"
 publication_short: ""
 
 abstract: None
 
 # Summary. An optional shortened abstract.
-summary: "Journal of Open Sourse Softerware (submitted)"
+summary: "Journal of Open Sourse Softerware 6:62"
 
 tags:
 - radial velocities
@@ -38,8 +38,8 @@ links:
   url: https://github.com/shihyuntang/igrins_rv
 #- name: ADS
 #  url: https://ui.adsabs.harvard.edu/abs/2020arXiv200802803P/abstract
-#- name: ApJL 900:L4
-#  url: https://iopscience.iop.org/article/10.3847/2041-8213/abad28
+- name: JOSS 6:62
+ url: https://joss.theoj.org/papers/10.21105/joss.03095#
 #- name: arXiv:2008.02803
 #  url: https://arxiv.org/abs/2008.02803
 
