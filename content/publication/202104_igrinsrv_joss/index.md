@@ -36,8 +36,8 @@ featured: false
 links:
 - name: Github
   url: https://github.com/shihyuntang/igrins_rv
-#- name: ADS
-#  url: https://ui.adsabs.harvard.edu/abs/2020arXiv200802803P/abstract
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3095T/abstract
 - name: JOSS 6:62
   url: https://joss.theoj.org/papers/10.21105/joss.03095#
 #- name: arXiv:2008.02803
