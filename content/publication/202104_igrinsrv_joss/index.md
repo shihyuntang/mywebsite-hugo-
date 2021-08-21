@@ -8,7 +8,7 @@ authors:
 - "Joe Llama"
 
 date: "2021-06-10T00:00:00Z"
-doi: ""
+doi: "10.21105/joss.03095"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-02-02T00:00:00Z"
