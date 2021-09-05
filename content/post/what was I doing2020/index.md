@@ -11,7 +11,7 @@ categories:
 date: "2021-01-16T00:00:00Z"
 lastmod: "2021-01-16T00:00:00Z"
 featured: true
-draft: true
+draft: Flase
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
