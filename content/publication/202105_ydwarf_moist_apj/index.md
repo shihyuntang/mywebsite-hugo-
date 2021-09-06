@@ -32,7 +32,7 @@ summary: "The Astrophysical Journal (accepted)"
 tags:
 - Brown Dwarf
 - Planet
-featured: false
+featured: true
 
 links:
 - name: ADS
@@ -53,10 +53,10 @@ links:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-#  caption: 'Image credit: Figure 5 in Pang et al. 2020. Number density, mass density, and mean mass distributions along a clustercentric distance r for NGC 2232 (blue curves) and LP 2439 (red curves).'
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: 'Image credit: Figure 1 in Tang et al. 2021. Thermal structure profiles from converged solutions of the radiative-convective model at logg = 4.0 for YB ([M/H] of 0.0, here) and YP ([M/H] of 0.7 and 1.5) cases.'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
