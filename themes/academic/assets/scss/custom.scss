@@ -4,3 +4,10 @@
 // @media (min-width: 992px) {.container-lg, .container-md, .container-sm, .container {max-width: 80%;}}
 // @media (min-width: 1200px) {.container-xl, .container-lg, .container-md, .container-sm, .container {max-width: 80%;}}
 .container{ max-width:90%;}
+
+.article-container {
+    max-width: 850px;
+    padding: 0 20px 0 20px;
+    margin: 0 auto 0 auto;
+    font-size: 20px;
+  }
