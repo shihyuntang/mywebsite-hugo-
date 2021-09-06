@@ -1,5 +1,5 @@
 ---
-title: "Disruption of Hierarchical Clustering in the Vela OB2 Complex and the Cluster Pair Collinder\,135 and UBC\,7 with Gaia EDR3: Evidence of Supernova Quenching"
+title: "Disruption of Hierarchical Clustering in the Vela OB2 Complex and the Cluster Pair Collinder 135 and UBC 7 with Gaia EDR3: Evidence of Supernova Quenching"
 authors:
 - "Xiaoying Pang"
 - "Zeqiu Yu"
@@ -10,7 +10,7 @@ authors:
 - "M.B.N. Kouwenhoven"
 
 date: "2021-09-05T00:00:00Z"
-doi: ""
+doi: " "
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-09-05T00:00:00Z"
