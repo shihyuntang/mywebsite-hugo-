@@ -22,13 +22,13 @@ publishDate: "2021-09-05T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted to Astrophysical Journal"
+publication: "The Astrophysical Journal (accepted)"
 publication_short: ""
 
 abstract: We identify hierarchical structures in the Vela OB2 complex and the cluster pair Collinder\,135 and UBC\,7 with Gaia EDR3 using the neural network machine learning algorithm \texttt{StarGO}. Five second-level substructures are disentangled in Vela OB2, which are referred to as Huluwa\,1 (Gamma Velorum), Huluwa\,2, Huluwa\,3, Huluwa\,4 and Huluwa\,5. For the first time, Collinder\,135 and UBC\,7 are simultaneously identified as constituent clusters of the pair with minimal manual intervention. We propose an alternative scenario in which Huluwa\,1--5 have originated from sequential star formation. The older clusters Huluwa\,1--3 with an age of 10--22\,Myr, generated stellar feedback to cause turbulence that fostered the formation of the younger-generation Huluwa\,4--5 (7--20\,Myr). A supernova explosion located inside the Vela IRAS shell quenched star formation in Huluwa\,4--5 and rapidly expelled the remaining gas from the clusters. This resulted in global mass stratification across the shell, which is confirmed by the regression discontinuity method. The stellar mass in the lower rim of the shell is $0.32\pm0.14$\,$\rm M_\odot$ higher than in the  upper rim. Local, cluster-scale mass segregation is observed in the lowest-mass cluster Huluwa\,5. Huluwa\,1--5 (in Vela OB2) are experiencing significant expansion, while the cluster pair suffers from moderate expansion. The velocity dispersions suggest that all five groups (including Huluwa\,1A and Huluwa\,1B) in Vela OB2 and the cluster pair are supervirial and are undergoing disruption, and also that Huluwa\,1A and Huluwa\,1B may be a coeval young cluster pair.  $N$-body simulations predict that Huluwa\,1--5 in Vela OB2 and the cluster pair will continue to expand in the future 100\,Myr and eventually dissolve.
 
 # Summary. An optional shortened abstract.
-summary: "Accepted to Astrophysical Journal"
+summary: "The Astrophysical Journal (accepted)"
 
 tags:
 - Open Cluster
