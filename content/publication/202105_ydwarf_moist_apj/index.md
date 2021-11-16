@@ -38,7 +38,7 @@ links:
 - name: ADS
   url: https://ui.adsabs.harvard.edu/abs/2021arXiv210507000T/abstract
 - name: ApJ 922:26
- url: https://iopscience.iop.org/article/10.3847/1538-3881/abf5e7
+  url: https://iopscience.iop.org/article/10.3847/1538-3881/abf5e7
 - name: arXiv:2105.07000
   url: https://arxiv.org/abs/2105.07000
 
