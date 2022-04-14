@@ -15,7 +15,7 @@ authors:
 - "M.B.N. Kouwenhoven"
 
 date: "2022-04-12T00:00:00Z"
-doi: " "
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-04-12T00:00:00Z"
@@ -59,7 +59,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: Figure 3 in Pang et al. 2022. 3D morphology of 85 open clusters in the solar neighborhood with the color of the cluster scaled with the logarithm of age. An interactive version of this figure is available at http://3doc-morphology.lowell.edu.'
+  caption: 'Image credit: Figure 3 in Pang et al. 2022. 3D morphology of 85 open clusters in the solar neighborhood with the color of the cluster scaled with the logarithm of age. An interactive version of this figure is available at [http://3doc-morphology.lowell.edu](http://3doc-morphology.lowell.edu).'
   focal_point: ""
   preview_only: false
 
