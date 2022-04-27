@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student at Dept. of Astronomy and Planetary Science
+role: Ph.D. Candidate at Dept. of Astronomy and Planetary Science
 
 # Organizations/Affiliations
 organizations:
@@ -23,14 +23,14 @@ organizations:
 bio: Interested in searching for the youngest exoplanets, modeling brown dwarf's atmosphere, and studying open cluster's dynamics.
 
 interests:
-- NIR spectra study of young stellar object/disk and looking for potential planet's with RV technique.
+- Using NIR spectra to find the youngest exoplanets (Hot Jupiter) with the RV technique.
 - Modeling the atmosphere of brown dwarfs and planetary objects with 1D radiactive-convective model.
-- Stellar population identification for star clusters and moving groups
-- Searching/Characterizing brown dwarfs and exoplanet
+- Stellar population identification and dynamic studies of nearby star clusters and moving groups
+- Searching and characterizing brown dwarfs and exoplanets
 
 education:
   courses:
-  - course: PhD, Astronomy and Planetary Science
+  - course: Ph.D., Astronomy and Planetary Science
     institution: Northern Arizona University, USA
     year: 2020.01 - Current
   - course: M.S., Physics
@@ -87,6 +87,6 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Shih-Yun Tang 湯士昀, a graduate student from Taiwan studying at the Northern Arizona University (NAU) Department of Astronomy and Planetary Science. I am working with Dr. [Lisa Prato](http://www2.lowell.edu/users/lprato/) at the Lowell Observatory on using NIR and optical spectra to search for the youngest exoplanets around T Tauri stars. Meanwhile, I am also working with Prof. [Tyler Robinson](https://hablabnet.wordpress.com/people/robinson/) at NAU to model ultracool objects' atmosphere using the 1D radiative-convective model. Lastly, as my side project, I am also working with Prof. Xiaoying Pang on using Gaia data to study stellar groups in the solar neighborhood.
+Hi, I am Shih-Yun Tang (湯士昀) from Taiwan. I am currently a Ph.D. candidate at the Northern Arizona University (NAU) Department of Astronomy and Planetary Science. I am working with Dr. [Lisa Prato](http://www2.lowell.edu/users/lprato/) at the Lowell Observatory on using NIR and optical spectra to search for the youngest exoplanets around T Tauri stars. Meanwhile, I am also working with Prof. [Tyler Robinson](https://hablabnet.wordpress.com/people/robinson/) at NAU to model ultracool objects' atmosphere using the 1D radiative-convective model. Lastly, as my side project, I am also working with Prof. Xiaoying Pang on using Gaia data to study stellar groups in the solar neighborhood.
 
 I completed my B.A. and M.S. in Physics at the National Central University (NCU), Taiwan. My first research project was to characterize the stellar and substellar members in the Coma Berenices star cluster with Prof. [Wen-Ping Chen](https://www.astro.ncu.edu.tw/~wchen/wp_chen/index.htm) as an undergraduate. Later, as my Master's thesis, I was among the first to discover the tidal tails of the Coma Berenices star cluster.
