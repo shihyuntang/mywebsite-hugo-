@@ -15,10 +15,10 @@ authors:
 - "M.B.N. Kouwenhoven"
 
 date: "2022-04-12T00:00:00Z"
-doi: " "
+doi: "10.3847/1538-4357/ac674e"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-04-12T00:00:00Z"
+publishDate: "2022-06-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,13 +27,13 @@ publishDate: "2022-04-12T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Astrophysical Journal (accepted)"
+publication: "The Astrophysical Journal 931:156 (25pp)"
 publication_short: ""
 
 abstract: We identify members of 65 open clusters in the solar neighborhood using the machine-learning algorithm StarGO based on Gaia EDR3 data. After adding members of twenty clusters from previous studies (Pang et al. 2021a,b; Li et al. 2021) we obtain 85 clusters, and study their morphology and kinematics. We classify the substructures outside the tidal radius into four categories -- filamentary (f1) and fractal (f2) for clusters $<100$ Myr, and halo (h) and tidal-tail (t) for clusters $>100$ Myr. The kinematical substructures of f1-type clusters are elongated; these resemble the disrupted cluster Group X. Kinematic tails are distinct in t-type clusters, especially Pleiades. We identify 29 hierarchical groups in four young regions (Alessi 20, IC 348, LP 2373, LP 2442); ten among these are new. The hierarchical groups form filament networks. Two regions (Alessi 20, LP 2373) exhibit global orthogonal expansion (stellar motion perpendicular to the filament), which  might cause complete dispersal. Infalling-like flows (stellar motion along the filament) are found in UBC 31 and related hierarchical groups in the IC 348 region. Stellar groups in the LP 2442 region (LP 2442 gp 1-5) are spatially well-mixed but kinematically coherent. A merging process might be ongoing in the LP 2442 subgroups. For younger systems ($\lesssim 30$ Myr), the mean axis ratio, cluster mass and half-mass radius tend to increase with age values. These correlations between structural parameters may imply two dynamical processes occurring in the hierarchical formation scenario in young stellar groups -- (1) filament dissolution and (2) sub-group mergers.
 
 # Summary. An optional shortened abstract.
-summary: "The Astrophysical Journal (accepted)"
+summary: "The Astrophysical Journal 931:156 (25pp)"
 
 tags:
 - Open Cluster
@@ -42,8 +42,8 @@ featured: true
 links:
 - name: ADS
   url: https://ui.adsabs.harvard.edu/abs/2022arXiv220406000P/abstract
-# - name: ApJ 923:20
-  # url: https://iopscience.iop.org/article/10.3847/1538-4357/ac2838
+- name: ApJ 931:156
+  url: https://iopscience.iop.org/article/10.3847/1538-4357/ac674e
 - name: arXiv:2204.06000
   url: https://arxiv.org/abs/2204.06000
 
