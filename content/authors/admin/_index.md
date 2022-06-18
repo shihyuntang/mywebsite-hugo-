@@ -66,7 +66,7 @@ social:
   link: https://ui.adsabs.harvard.edu/public-libraries/PlDrRv2zRGy3p53kCUbDPQ
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=zh-TW&authuser=4&user=VrGP728AAAAJ
+  link: https://scholar.google.com/citations?user=gpCVXkkAAAAJ&hl=en
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/a/tang_s_2.html
