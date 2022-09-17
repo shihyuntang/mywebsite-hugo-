@@ -41,7 +41,7 @@ featured: true
 
 links:
 - name: ADS
-  url: https://ui.adsabs.harvard.edu/abs/2022arXiv220406000P/abstract
+  url: https://ui.adsabs.harvard.edu/abs/2022ApJ...931..156P/abstract
 - name: ApJ 931:156
   url: https://iopscience.iop.org/article/10.3847/1538-4357/ac674e
 - name: arXiv:2204.06000

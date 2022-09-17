@@ -12,7 +12,7 @@ authors:
 - "Mario Pasquato"
 
 date: "2022-09-01T00:00:00Z"
-doi: ""
+doi: "10.3847/2041-8213/ac8e68"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-09-01T00:00:00Z"
@@ -24,13 +24,13 @@ publishDate: "2022-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted to the Astrophysical Journal Letter"
+publication: "The Astrophysical Journal Letter 937:L7 (11pp)"
 publication_short: ""
 
 abstract: "We use Gaia DR3 data to study the Collinder 132-Gulliver 21 region via the machine learning algorithm StarGO, and find eight subgroups of stars (ASCC 32, Collinder 132 gp 1--6, Gulliver 21) located in close proximity. Three co-moving populations were identified among these eight subgroups: (i) a coeval 25 Myr-old moving group (Collinder 132); (ii) an intermediate-age (50--100 Myr) group; and (iii) the 275 Myr-old dissolving cluster Gulliver 21. These three populations form parallel diagonal stripe-shape over-densities in the U--V distribution, which differ from open clusters and stellar groups in the solar neighborhood. We name this kinematic structure the Collinder 132-Gulliver 21 stream, as it extends over 270 pc in the 3D space. The oldest population Gulliver21 is spatially surrounded by the Collinder 132 moving group and the intermediate-age group. Stars in the Collinder 132-Gulliver 21 stream have an age difference up to 250 Myr. Metallicity information shows a variation of 0.3 dex between the youngest and oldest populations. The formation of the Collinder132-Gulliver 21 stream involves both star formation and dynamical heating. The youngest population (Collinder 132 moving group) with homogeneous metallicity is probably formed through filamentary star formation. The intermediate-age and the oldest population were then scatted by the Galactic bar or spiral structure resonance to intercept Collinder 132's orbit. Without mutual interaction between each population, the three populations are flying by each other currently and will become distinct three groups again in approximately ~50Myr."
 
 # Summary. An optional shortened abstract.
-summary: "Accepted to the Astrophysical Journal Letter"
+summary: "The Astrophysical Journal Letter 937:L7 (11pp)"
 
 tags:
 - Open Cluster
@@ -39,8 +39,8 @@ featured: true
 links:
 - name: ADS
   url: https://ui.adsabs.harvard.edu/abs/2022arXiv220814456P/abstract
-- name: ApJL (accepted)
-  url: 
+- name: ApJL 937:L7
+  url: https://iopscience.iop.org/article/10.3847/2041-8213/ac8e68
 - name: arXiv:2208.14456
   url: https://arxiv.org/abs/2208.14456
 
