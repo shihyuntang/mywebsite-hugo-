@@ -10,37 +10,40 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate at Dept. of Astronomy and Planetary Science
+role: Ph.D. Student at Dept. of Physics and Astronomy
 
 # Organizations/Affiliations
 organizations:
 - name: Lowell Observatory
   url: "https://lowell.edu"
-- name: Northern Arizona University
-  url: "https://nau.edu/astronomy-and-planetary-science"
+- name: Rice University
+  url: "https://physics.rice.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in searching for the youngest exoplanets, modeling brown dwarf's atmosphere, and studying open cluster's dynamics.
+bio: Interested in searching for the youngest exoplanets, modeling brown dwarf's atmosphere, and studying stellar cluster's dynamics.
 
 interests:
 - Using NIR spectra to find the youngest exoplanets (Hot Jupiter) with the RV technique.
-- Modeling the atmosphere of brown dwarfs and planetary objects with 1D radiactive-convective model.
 - Stellar population identification and dynamic studies of nearby star clusters and moving groups
+- Modeling the atmosphere of brown dwarfs and planetary objects with 1D radiative-convective model.
 - Searching and characterizing brown dwarfs and exoplanets
 
 education:
   courses:
+  - course: Ph.D., Physics and Astronomy
+    institution: Rice University, USA
+    year: 2023.01 - Current
   - course: Ph.D., Astronomy and Planetary Science
-    institution: Northern Arizona University, USA
-    year: 2020.01 - Current
+    institution: Northern Arizona University (NAU), USA
+    year: 2020.01 - 2022.12
   - course: M.S., Physics
-    institution: National Central University, Taiwan
+    institution: National Central University (NCU), Taiwan
     year: 2017.09 - 2019.06
   - course: Exchange Student
     institution: Niigata University, Japan
     year: 2016.09 - 2017.08
   - course: B.A., Physics
-    institution: National Central University, Taiwan
+    institution: National Central University (NCU), Taiwan
     year: 2013.09 - 2017.08
 
 # Social/Academic Networking
@@ -87,6 +90,6 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Shih-Yun Tang (湯士昀) from Taiwan. I am currently a Ph.D. candidate at the Northern Arizona University (NAU) Department of Astronomy and Planetary Science. I am working with Dr. [Lisa Prato](http://www2.lowell.edu/users/lprato/) at the Lowell Observatory on using NIR and optical spectra to search for the youngest exoplanets around T Tauri stars. Meanwhile, I am also working with Prof. [Tyler Robinson](https://hablabnet.wordpress.com/people/robinson/) at NAU to model ultracool objects' atmosphere using the 1D radiative-convective model. Lastly, as my side project, I am also working with Prof. Xiaoying Pang on using Gaia data to study stellar groups in the solar neighborhood.
+Hi, I am Tang, Shih-Yun (湯士昀) from Taiwan, cuently a Ph.D. student at the Rice University Department of Physics and Astronomy. I work with  Dr. [Lisa Prato](http://www2.lowell.edu/users/lprato/) at the Lowell Observatory and Prof. [Christopher Johns-Krull](http://www.ruf.rice.edu/~cmj/) at Rice using NIR and optical spectra to search for the youngest exoplanets around T Tauri stars. This project not involves the development of a precision RV pipeline but also brings my focus to identify and isolate the star spot(s) induced RV signal on these young active stars. Meanwhile, as my side project, I am also working with Prof. Xiaoying Pang on using Gaia data to study stellar groups in the solar neighborhood.
 
-I completed my B.A. and M.S. in Physics at the National Central University (NCU), Taiwan. My first research project was to characterize the stellar and substellar members in the Coma Berenices star cluster with Prof. [Wen-Ping Chen](https://www.astro.ncu.edu.tw/~wchen/wp_chen/index.htm) as an undergraduate. Later, as my Master's thesis, I was among the first to discover the tidal tails of the Coma Berenices star cluster.
+I completed my B.A. and M.S. in Physics at the National Central University (NCU), Taiwan. My first research project was to characterize the stellar and substellar members in the Coma Berenices star cluster with Prof. [Wen-Ping Chen](https://www.astro.ncu.edu.tw/~wchen/wp_chen/index.htm) as an undergraduate. Later, as my Master's thesis, I was the first to discover the tidal tails of the Coma Berenices star cluster.
