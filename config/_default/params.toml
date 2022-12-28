@@ -9,7 +9,9 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "dark"
+theme = "Mr Robot"
+#theme_day = "Minimal"
+#theme_night = "Coffee"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -18,7 +20,14 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+#     Minimal (modern)
+#     Classic (original Academic v1 style)
+#     Rose (traditional serif)
+#     Mr Robot (futuristic)
+#     Cyberpunk (hacker style)
+#     Native: use device fonts for maximum performance
+
+font = "Rose"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -86,7 +95,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "sytang@lowell.edu"
-# phone = "+1 928 221 6799"
+# phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
