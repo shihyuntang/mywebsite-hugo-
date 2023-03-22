@@ -37,12 +37,12 @@ tags:
 featured: true
 
 links:
-# - name: ADS
-#   url: https://ui.adsabs.harvard.edu/abs/2021ApJ...922...26T/abstract
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2023arXiv230311347T/abstract
 # - name: ApJ 922:26
 #   url: https://iopscience.iop.org/article/10.3847/1538-3881/abf5e7
-# - name: arXiv:2105.07000
-#   url: https://arxiv.org/abs/2105.07000
+- name: arXiv:2105.07000
+  url: https://arxiv.org/abs/2303.11347
 
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: ''
