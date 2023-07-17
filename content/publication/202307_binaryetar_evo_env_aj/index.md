@@ -29,7 +29,7 @@ publication: "The Astronomical Journal (accepted)"
 publication_short: ""
 
 abstract: "Using membership of 85 open clusters from previous studies (Pang et al. 2021a,b, 2022b; Li et al.
-2021) based on Gaia DR3 data, we identify binary candidates in the color-magnitude diagram, for systems with mass ratio q>0.4. The binary fraction is corrected for incompleteness at different distances due to the Gaia angular resolution limit. We find a decreasing binary fraction with increasing cluster age, with substantial scatter. For clusters with a total mass >200 $M_\odot$, t"
+2021) based on Gaia DR3 data, we identify binary candidates in the color-magnitude diagram, for systems with mass ratio q>0.4. The binary fraction is corrected for incompleteness at different distances due to the Gaia angular resolution limit. "
 
 # Summary. An optional shortened abstract.
 summary: "The Astronomical Journal (accepted)"
