@@ -29,7 +29,7 @@ publication_short: ""
 abstract: The stellar companion to the weak-line T Tauri star DITauA was first discovered by the lunar occultation technique in 1989 and was subsequently confirmed by a speckle imaging observation in 1991. It has not been detected since, despite being targeted by five different studies that used a variety of methods and spanned more than 20 years. Here, we report the serendipitous rediscovery of DI Tau B during our Young Exoplanets Spectroscopic Survey (YESS). Using radial velocity data from YESS spanning 17 years, new adaptive optics observations from KeckII, and a variety of other data from the literature, we derive a preliminary orbital solution for the system that effectively explains the detection and (almost all of the) non-detection history of DI Tau B. We estimate the dynamical masses of both components, finding that the large mass difference (q ∼0.17) and long orbital period (≳35 years) make DI Tau system a noteworthy and valuable addition to studies of stellar evolution and pre-main-sequence models. With a long orbital period and a small flux ratio (f2/f1) between DI Tau A and B, additional measurements are needed for a better comparison between these observational results and pre-main-sequence models. Finally, we report an average surface magnetic field strength for DI Tau A, of ∼0.55 kG, which is unusually low in the context of young active stars.
 
 # Summary. An optional shortened abstract.
-summary: "The Astrophysical Journal (Accepted)"
+summary: "The Astrophysical Journal 950:92 (17pp)"
 
 tags:
 - Binary Star

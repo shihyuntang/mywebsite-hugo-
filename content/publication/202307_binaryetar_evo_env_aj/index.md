@@ -13,7 +13,7 @@ authors:
 - "Rwei-ju Chuang"
 
 date: "2023-07-16T00:00:00Z"
-doi: ""
+doi: "10.3847/1538-3881/ace76c"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-07-16T00:00:00Z"
@@ -25,14 +25,14 @@ publishDate: "2023-07-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Astronomical Journal (accepted)"
+publication: "The Astronomical Journal 166:110 (16pp)"
 publication_short: ""
 
 abstract: "Using membership of 85 open clusters from previous studies (Pang et al. 2021a,b, 2022b; Li et al.
 2021) based on Gaia DR3 data, we identify binary candidates in the color-magnitude diagram, for systems with mass ratio q>0.4. The binary fraction is corrected for incompleteness at different distances due to the Gaia angular resolution limit. We find a decreasing binary fraction with increasing cluster age, with substantial scatter. For clusters with a total mass >200 Msun, the binary fraction is independent of cluster mass. The binary fraction depends strongly on stellar density. Among four types of cluster environments, the lowest-density filamentary and fractal stellar groups have the highest mean binary fraction: 23.6% and 23.2%, respectively. The mean binary fraction in tidal-tail clusters is 20.8%, and is lowest in the densest halo-type clusters: 14.8%. We find clear evidence of early disruptions of binary stars in the cluster sample. The radial binary fraction depends strongly on the cluster-centric distance across all four types of environments, with the smallest binary fraction within the half-mass radius $r_h$, and increasing towards a few $r_h$. Only hints of mass segregation is found in the target clusters. The observed amount of mass segregation is not significant to generate a global effect inside the target clusters. We evaluate the bias of unresolved binary systems (assuming a primary mass of 1 Msun) in 1D tangential velocity, which is 0.1-1 $km s^{-1}$. Further studies are required to characterize the internal star cluster kinematics using Gaia proper motions."
 
 # Summary. An optional shortened abstract.
-summary: "The Astronomical Journal (accepted)"
+summary: "The Astronomical Journal 166:110 (16pp)"
 
 tags:
 - Open Cluster
@@ -40,9 +40,9 @@ featured: true
 
 links:
 - name: ADS
-  url: 
-- name: ApJ (accepted)
-  url: 
+  url: https://ui.adsabs.harvard.edu/abs/2023AJ....166..110P/abstract
+- name: ApJ 166:110
+  url: https://iopscience.iop.org/article/10.3847/1538-3881/ace76c
 - name: arXiv:2307.06992
   url: https://arxiv.org/abs/2307.06992
 
