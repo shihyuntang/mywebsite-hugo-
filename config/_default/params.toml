@@ -95,16 +95,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "sytang@lowell.edu"
+email = "sytang@rice.edu"
 # phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1400 W. Mars Hill Rd.", city = "Flagstaff", region = "AZ", postcode = "86001", country = "United States", country_code = "US"}
+address = {street = " 6100 Main St", city = "Houston", region = "TX", postcode = "77005", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "35.203211", longitude = "-111.664621"}
+coordinates = {latitude = "29.71747515754557", longitude = "-95.4018244953669"}
 
 # Directions for visitors to locate you.
 directions = ""
