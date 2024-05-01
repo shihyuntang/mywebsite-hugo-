@@ -24,12 +24,11 @@ menu:
 This website serves as a personal summary and resource hub for materials derived from "Modern Statistical Methods for Astronomy" by Eric D. Feigelson and G. Jogesh Babu, as well as from the course "Statistical Analysis in Physics and Astronomy" (ASTR 408/508), taught by Professor Dr. Patrick Hartigan in Spring 2024 at Rice University. For detailed course content and materials, please visit the course page [here](https://sparky.rice.edu/astr408/astr408.html).
 
 
-
-### Contents            
+---
+## Contents            
 * Probability Basic
     * Central Limit Theory 
     * Radom Variables
 * PDF
     * Binomial
     * Poisson Process
-

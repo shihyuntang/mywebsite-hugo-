@@ -1,6 +1,6 @@
 ---
-title: Probability Basic
-linktitle: Probability Basic
+title: Distributions
+linktitle: Distributions
 toc: true
 type: docs
 date: "2024-04-29T00:00:00+01:00"
@@ -8,10 +8,10 @@ draft: false
 menu:
   astro-stat:
     parent: 1 Probability
-    weight: 1
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 ## Probability Distributions
@@ -82,7 +82,30 @@ P(X=2) = C^{5}_{2} 0.5^2 (1-0.5)^3 = \frac{5!}{2!3!} \times 0.25 \times 0.125 = 
 $$
 
 
-### Geometric distribution
+### Geometric Distribution
+
+The Geometric distribution describes the probability of observing the first success on the $x$-th trial in a sequence of Bernoulli trials.
+
+**PMF:**
+$$
+g(x; \theta) = \theta(1-\theta)^{x-1}
+$$
+where, $\theta$ is the probability of success on each trial, and $x$ is the trial number of the first success.
+
+**Key Properties:**
+- **Mean ($\mu$):** The expected number of trials to get the first success is given by:
+  $$
+  \mu = \frac{1}{\theta}
+  $$
+- **Variance ($\sigma^2$):** The variance of the number of trials to get the first success is:
+  $$
+  \sigma^2 = \frac{1-\theta}{\theta^2}
+  $$
+
+**Interpretation:**
+- The mean and variance provide insights into the "spread" or variability of trials needed to achieve the first success, with higher values of $\theta$ leading to fewer expected trials.
+
+This distribution is commonly used in *quality control*, *reliability testing*, and other areas where the "time" or number of trials until the first success is of interest.
 
 
 ### Poisson Distribution 
@@ -115,9 +138,5 @@ SNR = \frac{\mu}{\sigma} = \frac{\mu}{\sqrt{\mu}} = \sqrt{\mu}
 $$
 This relationship highlights the inherent noise properties in photon-counting measurements like those in CCD photometry.
 
-
 ---
-## Confidence Interval
-
-## z test vs. t test 
 
