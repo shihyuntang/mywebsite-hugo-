@@ -1,6 +1,6 @@
 ---
-title: Statistical Tests for Assessing Distribution
-linktitle: Statistical Tests for Distribution
+title: Distribution
+linktitle: Distribution
 toc: true
 type: docs
 date: "2024-05-1T00:00:00+01:00"
