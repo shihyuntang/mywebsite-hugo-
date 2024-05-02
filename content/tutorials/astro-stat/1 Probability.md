@@ -8,10 +8,10 @@ draft: false
 menu:
   astro-stat:
     parent: 1 Probability
-    weight: 2
+    weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 3
 ---
 
 ## Probability Distributions
@@ -19,19 +19,19 @@ weight: 2
 Probability distributions describe how the probabilities of a **random variable** are distributed. Here are the two main types of probability functions associated with these distributions:
 
 1. **Probability Density Function (PDF, continuous):**
-    - **Description:** The PDF is used to specify the probability of a random variable falling within a particular range of values, rather than taking any one specific value. This function is applicable only to continuous variables.
-    - **Key Characteristic:** The area under the PDF curve between two points represents the probability of the variable falling within that range.
-    - **Example:** The normal distribution.
+   - **Description:** The PDF is used to specify the probability of a random variable falling within a particular range of values, rather than taking any one specific value. This function is applicable only to continuous variables.
+   - **Key Characteristic:** The area under the PDF curve between two points represents the probability of the variable falling within that range.
+   - **Example:** The normal distribution.
 
 2. **Probability Mass Function (PMF, discrete):**
-    - **Description:** The PMF is used for discrete random variables and specifies the probability that a random variable is exactly equal to some value.
-    - **Key Characteristic:** The sum of all the probabilities represented by the PMF must equal 1, as it accounts for every possible discrete value the variable can take.
-    - **Example:** The binomial distribution, and the Poisson distribution.
+   - **Description:** The PMF is used for discrete random variables and specifies the probability that a random variable is exactly equal to some value.
+   - **Key Characteristic:** The sum of all the probabilities represented by the PMF must equal 1, as it accounts for every possible discrete value the variable can take.
+   - **Example:** The binomial distribution, and the Poisson distribution.
 
 **Cumulative Distribution Function (CDF):**
-  - **Description:** The CDF is used to determine the probability that a random variable \(X\) is $\lesssim$ to a certain value. CDF can be applied to both discrete and continuous random variables.
-  - **Key Characteristic:** The CDF is a non-decreasing function that ranges from 0 to 1. For continuous variables, it is obtained by integrating the PDF over the range of possible values. For discrete variables, it is the cumulative sum of the PMF.
-  - **Example:** For normal distribution, the CDF is used to calculate the probability that the variable is less than a specific threshold, which is central to hypothesis testing and confidence interval estimation.
+   - **Description:** The CDF is used to determine the probability that a random variable \(X\) is $\lesssim$ to a certain value. CDF can be applied to both discrete and continuous random variables.
+   - **Key Characteristic:** The CDF is a non-decreasing function that ranges from 0 to 1. For continuous variables, it is obtained by integrating the PDF over the range of possible values. For discrete variables, it is the cumulative sum of the PMF.
+   - **Example:** For normal distribution, the CDF is used to calculate the probability that the variable is less than a specific threshold, which is central to hypothesis testing and confidence interval estimation.
 
 ---
 ## Chebyshev's Theorem

@@ -1,17 +1,17 @@
 ---
-title: Radom Variables
-linktitle: Radom Variables
+title: Regression
+linktitle: Regression
 toc: true
 type: docs
 date: "2020-08-11T00:00:00+01:00"
 draft: false
 menu:
   astro-stat:
-    parent: 1 Probability
-    weight: 2
+    parent: Regression
+    weight: 7
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 7
 ---
 
 Coming Soon...
