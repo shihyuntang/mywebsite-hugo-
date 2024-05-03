@@ -7,7 +7,7 @@ date: "2024-05-01T00:00:00+01:00"
 draft: false
 menu:
   astro-stat:
-    parent: Spatial Point Processes
+    parent: 9 Spatial Point Processes
     weight: 13
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)

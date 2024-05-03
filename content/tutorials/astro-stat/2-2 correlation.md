@@ -8,7 +8,7 @@ draft: false
 menu:
   astro-stat:
     parent: 2 Nonparametric
-    weight: 5
+    weight: 6
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 5
