@@ -26,7 +26,7 @@ This website serves as a personal summary and resource hub for materials derived
 ![](https://m.media-amazon.com/images/I/71tsPYwfXGL._AC_UF1000,1000_QL80_.jpg)
 
 ---
-*The notes and content presented on this webpage are intended for personal use and reference. While I strive to ensure accuracy and completeness, please be aware that the information may not be 100% correct. Additionally, many sections of this site have been reviewed and polished with the assistance of ChatGPT, an AI language model from OpenAI.*
+*The notes and content presented on this webpage are intended for personal use and reference. While I strive to ensure accuracy and completeness, please be aware that the information may not be 100% correct. Additionally, this site have been reviewed and polished with the assistance of ChatGPT, an AI language model from OpenAI.*
 
 <!-- ---
 ## Contents            
