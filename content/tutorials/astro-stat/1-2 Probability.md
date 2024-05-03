@@ -22,7 +22,6 @@ Probability distributions describe how the probabilities of a **random variable*
    - **Description:** The PDF is used to specify the probability of a random variable falling within a particular range of values, rather than taking any one specific value. This function is applicable only to continuous variables.
    - **Key Characteristic:** The area under the PDF curve between two points represents the probability of the variable falling within that range.
    - **Example:** The normal distribution.
-
 2. **Probability Mass Function (PMF, discrete):**
    - **Description:** The PMF is used for discrete random variables and specifies the probability that a random variable is exactly equal to some value.
    - **Key Characteristic:** The sum of all the probabilities represented by the PMF must equal 1, as it accounts for every possible discrete value the variable can take.

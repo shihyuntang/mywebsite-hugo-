@@ -28,9 +28,9 @@ weight: 1
 - **Confidence Interval (CI):**
   A confidence interval is a range of values, derived from sample statistics, that is likely to contain the value of an unknown population parameter. The confidence level represents the probability that this interval will capture this parameter in repeated samples.
   
-- **Type I and Type II Errors:**
+<!-- - **Type I and Type II Errors:**
   - **Type I Error (False Positive):** Occurs when the null hypothesis is incorrectly rejected when it is actually true.
-  - **Type II Error (False Negative):** Occurs when the null hypothesis is not rejected when it is actually false.
+  - **Type II Error (False Negative):** Occurs when the null hypothesis is not rejected when it is actually false. -->
 
 
 ---
@@ -43,7 +43,6 @@ In probability and statistics, the concepts of first and second moments are cent
   - **Definition:** The first moment is the expected value of a random variable $X$, denoted as $E(X)$.
   - **Formula:** 
     $$E(X) = \mu$$
-
 - **Second Moment (Variance):**
   - **Definition:** The second moment about the mean is the variance of the random variable $X$, denoted as $\sigma^2$. It measures the spread of the data points around the mean.
   - **Formula:** The variance is calculated using the expectation of the *squared deviations from the mean*:
@@ -58,7 +57,6 @@ In probability and statistics, the concepts of first and second moments are cent
               &= E[X^2] - \mu^2 \\\
               &= E[X^2] - E(X)^2
   \end{align}$$
-
 - **Third Moment (Skewness):**
   - **Definition:** The third central moment describes the skewness of the distribution of a random variable, indicating the degree of asymmetry around the mean. Skewness can reveal whether the distribution tails off more on one side than the other.
   - **Formula:** The third moment is calculated using the expectation of the cubed deviations from the mean:
@@ -66,7 +64,6 @@ In probability and statistics, the concepts of first and second moments are cent
     E[(X - E(X))^3]
     $$
   - **Interpretation:** A positive skewness indicates that the distribution has a long tail to the right (more positive side), while a negative skewness indicates a long tail to the left (more negative side).
-
 - **Covariance:**
   - **Definition:** Covariance measures the joint variability of two random variables, $X$ and $Y$. It assesses the degree to which two variables change together. If the greater values of one variable mainly correspond to the greater values of the other variable, and the same holds for the lesser values, the covariance is positive.
   - **Formula:** The covariance between two variables $X$ and $Y$ is given by:
