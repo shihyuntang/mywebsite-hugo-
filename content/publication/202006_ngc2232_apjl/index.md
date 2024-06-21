@@ -31,7 +31,7 @@ summary: "The Astrophysical Journal Letters 900:L4 (10pp)"
 tags:
 - Open Cluster
 - NGC 2232
-featured: true
+featured: false
 
 links:
 - name: ADS
@@ -82,3 +82,5 @@ image:
 #Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-#latex/).
 
 ---
+![MST](202006_ngc2232_apjl.png)
+*Image credit: Figure 5 in Pang et al. 2020.*: Number density, mass density, and mean mass distributions along a clustercentric distance r for NGC 2232 (blue curves) and LP 2439 (red curves).

@@ -14,10 +14,10 @@ role: Ph.D. Student at Dept. of Physics and Astronomy
 
 # Organizations/Affiliations
 organizations:
-- name: Lowell Observatory
-  url: "https://lowell.edu"
 - name: Rice University
   url: "https://physics.rice.edu"
+- name: Lowell Observatory
+  url: "https://lowell.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Interested in searching for the youngest exoplanets, modeling brown dwarf's atmosphere, and studying stellar cluster's dynamics.
@@ -35,7 +35,7 @@ education:
     year: 2023.01 - Current
   - course: Ph.D., Astronomy and Planetary Science
     institution: Northern Arizona University (NAU), USA
-    year: 2020.01 - 2022.12
+    year: 2020.01 - 2022.12 (transferred to Rice)
   - course: M.S., Physics
     institution: National Central University (NCU), Taiwan
     year: 2017.09 - 2019.06
@@ -55,9 +55,9 @@ social:
   icon_pack: fas
   link: 'mailto:sytang@rice.edu'  # For a direct email link, use "mailto:test@example.org".
   #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/astrosytang
+# - icon: twitter
+  # icon_pack: fab
+  # link: https://twitter.com/astrosytang
 - icon: github
   icon_pack: fab
   link: https://github.com/shihyuntang
@@ -89,7 +89,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Hi, I am Tang, Shih-Yun (湯士昀) from Taiwan, currently pursuing my Ph.D. at the Rice University Department of Physics and Astronomy. I work with Prof. [Christopher Johns-Krull](http://www.ruf.rice.edu/~cmj/) at Rice and Dr. [Lisa Prato](http://www2.lowell.edu/users/lprato/) at the Lowell Observatory. Our project aims to discover the youngest exoplanets around T Tauri stars, which involves developing a precision radial velocity (RV) pipeline and isolating star spot-induced RV signals on these young active stars. My current focus is characterizing the spot activity on these stars by analyzing the variation in their surface effective temperature using the line ratio method.
 
-Hi, I am Tang, Shih-Yun (湯士昀) from Taiwan, currently a Ph.D. student at the Rice University Department of Physics and Astronomy. I work with  Dr. [Lisa Prato](http://www2.lowell.edu/users/lprato/) at the Lowell Observatory and Prof. [Christopher Johns-Krull](http://www.ruf.rice.edu/~cmj/) at Rice using NIR and optical spectra to search for the youngest exoplanets around T Tauri stars. This project not only involves the development of a precision RV pipeline but also brings my focus to identify and isolate the star spot(s) induced RV signal on these young active stars. Meanwhile, as my side project, I am also working with Prof. Xiaoying Pang on using Gaia data to study stellar groups in the solar neighborhood.
+I earned my B.A. and M.S. in Physics from the National Central University (NCU), Taiwan. My initial research, under the mentorship of Prof. [Wen-Ping Chen](https://www.astro.ncu.edu.tw/~wchen/wp_chen/index.htm), involved characterizing stellar and substellar members of the Coma Berenices star cluster. For my Master’s thesis, I was the first to discover the tidal tails of the Coma Berenices star cluster, a project initiated during my 2018 summer internship at the Max-Planck-Institute for Astronomy (MPIA) and in collaboration with Prof. Xiaoying Pang. Together, we have been exploring the solar neighborhood using Gaia data to study stellar groups.
 
-I completed my B.A. and M.S. in Physics at the National Central University (NCU), Taiwan. My first research project was to characterize the stellar and substellar members in the Coma Berenices star cluster with Prof. [Wen-Ping Chen](https://www.astro.ncu.edu.tw/~wchen/wp_chen/index.htm) as an undergraduate. Later, as my Master's thesis, I was the first to discover the tidal tails of the Coma Berenices star cluster.
+I am also passionate about teaching and outreach. I have delivered guest lectures, served as a teaching assistant, and mentored undergraduate research projects. In my spare time, I enjoy playing pickleball and have a keen interest in machine learning for data analysis.

@@ -36,7 +36,7 @@ summary: "The Astronomical Journal 166:110 (16pp)"
 
 tags:
 - Open Cluster
-featured: true
+featured: false
 
 links:
 - name: ADS
@@ -87,3 +87,5 @@ image:
 #Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-#latex/).
 
 ---
+![](202307_binaryetar_evo_env_aj.png)
+*Image credit: Figure 5 in Pang et al. 2023.*: Box plot showing radial binary fraction as a function of cluster-centric distance as half-mass radius (rh). For each panel shows four types of clusters: (a) filamentary , (b) fractal, (c) halo , and (d) tidal-tail.

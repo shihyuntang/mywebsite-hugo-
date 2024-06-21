@@ -33,7 +33,7 @@ summary: "The Astrophysical Journal 912:162 (27pp)"
 
 tags:
 - Open Cluster
-featured: true
+featured: false
 
 links:
 - name: ADS
@@ -84,3 +84,5 @@ image:
 #Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-#latex/).
 
 ---
+![3d](202102_oc3d_apj.png)
+*Image credit: Figure 8 in Pang et al. 2021.*: Elipsoid fitting for the 3D spatial positions for the cluster members within tidal radius of NGC 2516, after distance correction through a Bayesian approach (see Section 4.1).

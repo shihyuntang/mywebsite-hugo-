@@ -55,8 +55,8 @@ links:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: Figure 1 in Tang et al. 2021. Thermal structure profiles from converged solutions of the radiative-convective model at logg = 4.0 for YB ([M/H] of 0.0, here) and YP ([M/H] of 0.7 and 1.5) cases.'
-  focal_point: ""
-  preview_only: false
+  focal_point: "Center"
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -83,3 +83,6 @@ image:
 #Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-#latex/).
 
 ---
+
+![atmprofile](202105_ydwarf_moist_apj.png)
+*Image credit: Figure 1 in Tang et al. 2021.*: Thermal structure profiles from converged solutions of the radiative-convective model at logg = 4.0 for YB ([M/H] of 0.0, here) and YP ([M/H] of 0.7 and 1.5) cases.

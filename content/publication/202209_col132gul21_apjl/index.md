@@ -34,7 +34,7 @@ summary: "The Astrophysical Journal Letter 937:L7 (11pp)"
 
 tags:
 - Open Cluster
-featured: true
+featured: false
 
 links:
 - name: ADS
@@ -85,3 +85,5 @@ image:
 #Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-#latex/).
 
 ---
+![3d](202209_col132gul21_apjl.png)
+*Image credit: Figure 3 in Pang et al. 2022.*: 3D morphology of the Collinder 132-Gulliver 21 stream. The oldest population surrounded by young populations can be seen in panel (b) with age of each group labeled.

@@ -58,7 +58,7 @@ links:
 image:
   caption: 'Image credit: Figure 2 in Tang et al. 2023. Best model fit for DITau AB'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -85,3 +85,5 @@ image:
 #Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-#latex/).
 
 ---
+![orbit](202303_ditau_apj.png)
+*Image credit: Figure 2 in Tang et al. 2023.*: Best model fit for DITau AB

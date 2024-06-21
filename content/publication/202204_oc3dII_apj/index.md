@@ -37,7 +37,7 @@ summary: "The Astrophysical Journal 931:156 (25pp)"
 
 tags:
 - Open Cluster
-featured: true
+featured: false
 
 links:
 - name: ADS
@@ -88,3 +88,5 @@ image:
 #Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-#latex/).
 
 ---
+![animation](202204_oc3dII_apj.png)
+*Image credit: Figure 3 in Pang et al. 2022.*: 3D morphology of 85 open clusters in the solar neighborhood with the color of the cluster scaled with the logarithm of age. An interactive version of this figure is available at [http://3doc-morphology.lowell.edu](http://3doc-morphology.lowell.edu)

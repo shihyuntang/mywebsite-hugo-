@@ -37,7 +37,7 @@ tags:
 - radial velocities
 - IGRINS
 - planets and satellites detection
-featured: true
+featured: false
 
 links:
 - name: ADS
@@ -88,3 +88,5 @@ image:
 #Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-#latex/).
 
 ---
+![rv](202104_igrinsrv_aj.png)
+*Image credit: Figure 5 in Stahl et al. 2021.*: Final RVs for RV standard stars

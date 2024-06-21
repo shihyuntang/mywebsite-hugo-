@@ -24,7 +24,7 @@ publication_types: ["2"]
 publication: "The Astrophysical Journal 862:106 (28pp)"
 publication_short: ""
 
-abstract: We have identified stellar and substellar members in the nearby star cluster Coma Berenices, using photometry, proper motions, and distances of a combination of 2MASS, UKIDSS, URAT1, and Gaia/DR2 data. Those with Gaia/DR2 parallax measurements provide the most reliable sample to constrain the distance, averaging 86.7pc with a dispersion of 7.1pc, and age of ~800Myr, of the cluster. This age is older than the 400–600Myr commonly adopted in the literature. Our analysis, complete within 5° of the cluster radius, leads to identification of 192 candidates, among which, after field contamination is considered, about 148 are true members. The members have J∼3 mag to ∼17.5mag, corresponding to stellar masses 2.3–0.06 M$_{\odot}$. The mass function of the cluster peaks around 0.3M$_{\odot}$, and in the sense of dN/dm = m$^{-\alpha}$, where N is the number of members and m is stellar mass, with a slope $\alpha\approx$0.49$\pm$0.03 in the mass range 0.3–2.3M$_{\odot}$. This is much shallower than that of the field population in the solar neighborhood. The slope $\alpha=−$1.69$\pm$0.14 from 0.3M$_{\odot}$ to 0.06 M$_{\odot}$, the lowest mass in our sample. The cluster is mass-segregated and has a shape elongated toward the Galactic plane. Our list contains nine substellar members, including three new discoveries of an M8, an L1, and an L4 brown dwarfs, extending from the previously known coolest members of late-M types to even cooler types. 
+abstract: We have identified stellar and substellar members in the nearby star cluster Coma Berenices, using photometry, proper motions, and distances of a combination of 2MASS, UKIDSS, URAT1, and Gaia/DR2 data. Those with Gaia/DR2 parallax measurements provide the most reliable sample to constrain the distance, averaging 86.7 pc with a dispersion of 7.1 pc, and age of ~800 Myr, of the cluster. This age is older than the 400--600 Myr commonly adopted in the literature. Our analysis, complete within 5° of the cluster radius, leads to identification of 192 candidates, among which, after field contamination is considered, about 148 are true members. The members have J∼3 mag to ∼17.5 mag, corresponding to stellar masses 2.3--0.06 $M_\odot$. The mass function of the cluster peaks around 0.3$M_{\odot}$, and in the sense of $dN/dm = m^{-\alpha}$, where N is the number of members and m is stellar mass, with a slope $\alpha\approx$0.49$\pm$0.03 in the mass range 0.3–2.3 $M_{\odot}$. This is much shallower than that of the field population in the solar neighborhood. The slope $\alpha=−$1.69$\pm$0.14 from 0.3 $M_{\odot}$ to 0.06 $M_{\odot}$, the lowest mass in our sample. The cluster is mass-segregated and has a shape elongated toward the Galactic plane. Our list contains nine substellar members, including three new discoveries of an M8, an L1, and an L4 brown dwarfs, extending from the previously known coolest members of late-M types to even cooler types. 
 
 # Summary. An optional shortened abstract.
 summary: "The Astrophysical Journal 862:106 (28pp)"
@@ -84,3 +84,12 @@ image:
 #Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-#latex/).
 
 ---
+
+![spectra](201808_comaber_apj.png)
+*Image credit: Tang et al. 2018. Figure 17*: The **present day** mass function (MF) of the ~800 Myr old Coma Ber star cluster. 
+
+### Key Takeaways
+* The Mass Function (MF) of Coma Berenices peaks at 0.3 $M_\odot$:
+  * The slope of the MF, $\alpha$, is approximately 0.49 $\pm$ 0.03 for the mass range 0.3 to 2.3 $M_{\odot}$.
+* The value of $\alpha$ for Coma Berenices is lower than that of the Salpeter initial mass function, which is 2.35 for masses between 1--10 $M_{\odot}$ in the solar neighborhood.
+* The value of $\alpha$ for Coma Berenices is also lower than the present-day MF for field M dwarfs, which is approximately 1.3 for masses between 0.1--0.7 $M_{\odot}$ (Reid et al. 2002).
