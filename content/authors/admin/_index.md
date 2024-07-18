@@ -42,7 +42,7 @@ education:
   - course: Exchange Student
     institution: Niigata University, Japan
     year: 2016.09 - 2017.08
-  - course: B.A., Physics
+  - course: B.S., Physics
     institution: National Central University (NCU), Taiwan
     year: 2013.09 - 2017.08
 
@@ -91,6 +91,6 @@ user_groups:
 ---
 Hi, I am Tang, Shih-Yun (湯士昀) from Taiwan, currently pursuing my Ph.D. at the Rice University Department of Physics and Astronomy. I work with Prof. [Christopher Johns-Krull](http://www.ruf.rice.edu/~cmj/) at Rice and Dr. [Lisa Prato](http://www2.lowell.edu/users/lprato/) at the Lowell Observatory. Our project aims to discover the youngest exoplanets around T Tauri stars, which involves developing a precision radial velocity (RV) pipeline and isolating star spot-induced RV signals on these young active stars. My current focus is characterizing the spot activity on these stars by analyzing the variation in their surface effective temperature using the line ratio method.
 
-I earned my B.A. and M.S. in Physics from the National Central University (NCU), Taiwan. My initial research, under the mentorship of Prof. [Wen-Ping Chen](https://www.astro.ncu.edu.tw/~wchen/wp_chen/index.htm), involved characterizing stellar and substellar members of the Coma Berenices star cluster. For my Master’s thesis, I was the first to discover the tidal tails of the Coma Berenices star cluster, a project initiated during my 2018 summer internship at the Max-Planck-Institute for Astronomy (MPIA) and in collaboration with Prof. Xiaoying Pang. Together, we have been exploring the solar neighborhood using Gaia data to study stellar groups.
+I earned my B.S. and M.S. in Physics from the National Central University (NCU), Taiwan. My initial research, under the mentorship of Prof. [Wen-Ping Chen](https://www.astro.ncu.edu.tw/~wchen/wp_chen/index.htm), involved characterizing stellar and substellar members of the Coma Berenices star cluster. For my Master’s thesis, I was the first to discover the tidal tails of the Coma Berenices star cluster, a project initiated during my 2018 summer internship at the Max-Planck-Institute for Astronomy (MPIA) and in collaboration with Prof. Xiaoying Pang. Together, we have been exploring the solar neighborhood using Gaia data to study stellar groups.
 
 I am also passionate about teaching and outreach. I have delivered guest lectures, served as a teaching assistant, and mentored undergraduate research projects. In my spare time, I enjoy playing pickleball and have a keen interest in machine learning for data analysis.
