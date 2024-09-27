@@ -35,7 +35,7 @@ featured: true
 links:
 - name: ADS
   url: https://ui.adsabs.harvard.edu/abs/2024arXiv240613011T/abstract
-- name: ApJ 973:124 (24pp)
+- name: ApJ 973:124
   url: https://iopscience.iop.org/article/10.3847/1538-4357/ad5e7f
 - name: arXiv:2406.13011
   url: https://arxiv.org/abs/2406.13011
