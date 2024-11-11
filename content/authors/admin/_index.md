@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student at Dept. of Physics and Astronomy
+role: Ph.D. Candidates at Dept. of Physics and Astronomy
 
 # Organizations/Affiliations
 organizations:

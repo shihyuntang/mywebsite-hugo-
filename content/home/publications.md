@@ -70,4 +70,4 @@ subtitle = ""
 Below only list publication that I had been highly involved. The full publication list can be found at
 [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/PlDrRv2zRGy3p53kCUbDPQ) or
 [Google Scholar](https://scholar.google.com/citations?hl=zh-TW&authuser=4&user=VrGP728AAAAJ).
-(Last updated on June 20, 2024.)
+(Last updated on Nov 11, 2024.)
