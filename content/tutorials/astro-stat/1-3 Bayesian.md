@@ -92,4 +92,5 @@ $$
    \chi^2 = -2 \ln{L}
 $$
 > The $\chi^2$ is just -2 times the log-likelihood of a Gaussian model on observation.
-This formulation arises from the exponential component of the PDF of the normal distribution, which is what a likelihood function usually take, thus, a easier way to remember how to calculate the likelihood. 
+> 
+These formulation arises from the exponential component of the PDF of the normal distribution, which is what a likelihood function usually take, thus, a easier way to remember how to calculate the likelihood. 
