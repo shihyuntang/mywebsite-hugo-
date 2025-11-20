@@ -37,13 +37,14 @@ $$
 
 ### Components of Bayes' Theorem
 
-1. **Likelihood ( $ P(A|B) $ ):**
-   The likelihood is a function that measures the plausibility of a model parameter value given specific observed data. In many applications, especially in statistical modeling, the likelihood is assumed to follow a normal distribution:
+1. **Likelihood ( $ P(x|\theta) $ ):**
+   The likelihood is a function that gives the plausibility of a model parameter value ($\theta$) given specific observed data ($x$). That is, In many applications, the likelihood is assumed to follow a normal distribution:
    $$
-      L(\theta; x) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\theta)^2}{2\sigma^2}}
+      L(x; \theta) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\theta)^2}{2\sigma^2}}
    $$
    where $\theta$ represents the parameter of interest, $x$ represents the data, and $\sigma^2$ is the variance.
-2. **Prior ( $ P(B) $ ):**
+   > Likelihood ask: If I plug in this $\theta$ value to the model, how well does the results explain the observed data?
+2. **Prior ( $ P(\theta) $ ):**
    The prior represents the initial belief about the distribution of the parameter before considering the current data. Priors can be subjective or based on previous studies:
    $$
       P(\theta)
@@ -52,11 +53,11 @@ $$
 3. **Evidence or Normalizing Constant ( $ P(A) $ ):**
    Often considered as a normalizing factor, the evidence ensures that the posterior probabilities sum to one. It is calculated as:
    $$
-      P(A) = \int P(A|B) P(B) dB
+      P(x) = \int P(x|\theta) P(\theta) d\theta
    $$
-   This factor is essential for the probabilistic model to be valid but is usually more relevant in analytical calculations than in practical applications.
-4. **Posterior ( $ P(B|A) $ ):**
-   The posterior probability reflects the updated belief about the parameter after considering the new evidence. It combines the prior and the likelihood given new data:
+   This factor is essential for method like Nested Sampling (NS), and usually been ignored in the MCMC method.
+4. **Posterior ( $ P(\theta|x) $ ):**
+   The posterior probability reflects the **updated belief** about the parameter after considering the new evidence. It combines the prior and the likelihood given new data:
    $$
       P(\theta|x) = \frac{P(x|\theta)P(\theta)}{\int P(x|\theta)P(\theta) d\theta}
    $$
