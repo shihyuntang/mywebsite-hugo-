@@ -144,7 +144,7 @@ $$
    \mathcal{Z} \approx \sum_i w_i.
 $$
 
-### Posterior ($\mathcal{P}$)
+### Posterior ($\mathcal{P}$, also known as the Importance Weights)
 
 Once we have the weights and the evidence, the posterior samples are simply:
 
@@ -152,7 +152,8 @@ $$
    \mathcal{P}(\theta_i \mid x) = \frac{w_i}{\mathcal{Z}} = \frac{w_i}{\sum_i w_i}.
 $$
 
-That’s it — the dead points (with the right weights) become your posterior samples.
+That’s it — the dead points (with the right weights) become your posterior samples. 
+>Or, the importance weight tells you how much each dead point matters to the posterior. Low-likelihood points matter little. Tiny-volume points matter little. soPoints in the middle matter most.
 
 
 --- 
