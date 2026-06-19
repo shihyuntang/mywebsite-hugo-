@@ -15,7 +15,7 @@ weight: 1
 
 aliases:
     - /tutorials/work-animations/exsplosyn-model/
-    - /exsplosyn/
+    - /exsplosyn-model/
 ---
 
 This page hosts the full-resolution companion animation for my PhD thesis, *Characterization of Young Active Stars for Identifying the Youngest Exoplanets*. 
