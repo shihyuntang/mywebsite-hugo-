@@ -33,6 +33,6 @@ Please select from below links or use the sidebar navigation to view the full-re
 
 #### 2. [LkCa4 Spotted Model H-Band Spectra Comparison](./exsplosyn-lkca4-spec-H/)
 
-#### 3. [LkCa4 Spotted Model Magnetized H-Band Spectra Comparison](./exsplosyn-lkca4-spec-H-2kG/)
+#### 3. [LkCa4 Spotted Model Magnetized H-Band Spectra Comparison](./exsplosyn-lkca4-spec-H-2kg/)
 
-#### 4. [LkCa4 Spotted Model K-Band Spectra Comparison](./exsplosyn-lkca4-spec-K-2kG/)
+#### 4. [LkCa4 Spotted Model K-Band Spectra Comparison](./exsplosyn-lkca4-spec-K-2kg/)

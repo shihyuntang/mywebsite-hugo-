@@ -5,7 +5,7 @@ toc: true
 type: docs
 date: "2026-06-19T00:00:00+01:00"
 draft: false
-slug: "exsplosyn-lkca4-spec-K-2kg"
+slug: "exsplosyn-lkca4-spec-K-2kG"
 menu:
   work-animations:
     parent: Overview
