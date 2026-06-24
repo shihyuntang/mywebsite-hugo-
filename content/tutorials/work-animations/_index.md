@@ -29,10 +29,7 @@ Please select from below links or use the sidebar navigation to view the full-re
 
 ### Available Animations
 
-#### 1. [EXSPLOSYN Surface Mapping & Standard Output](./exsplosyn-model/)
-
-#### 2. [LkCa4 Spotted Model H-Band Spectra Comparison](./exsplosyn-lkca4-spec-H/)
-
-#### 3. [LkCa4 Spotted Model Magnetized H-Band Spectra Comparison](./exsplosyn-lkca4-spec-H-2kg/)
-
-#### 4. [LkCa4 Spotted Model K-Band Spectra Comparison](./exsplosyn-lkca4-spec-K-2kg/)
+1. [EXSPLOSYN Surface Mapping & Standard Output](./exsplosyn-model/)
+2. [LkCa4 Spotted Model Spectra Comparison (H-Band )](./exsplosyn-lkca4-spec-h/)
+3. [LkCa4 Spotted Model Spectra Comparison (Magnetized H-Band)](./exsplosyn-lkca4-spec-h-b2/)
+4. [LkCa4 Spotted Model Spectra Comparison (K-Band)](./exsplosyn-lkca4-spec-k-b2/)
