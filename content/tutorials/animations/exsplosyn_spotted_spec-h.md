@@ -16,7 +16,6 @@ weight: 2
 aliases:
     - /tutorials/animations/exsplosyn-lkca4-spec-h/
     - /exsplosyn-lkca4-spec-h/
-    - /exsplosyn-lkca4-spec-H/
 ---
 
 This page hosts the full-resolution companion animations for my PhD thesis, *Characterization of Young Active Stars for Identifying the Youngest Exoplanets*. 
