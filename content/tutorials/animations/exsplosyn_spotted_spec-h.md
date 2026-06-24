@@ -14,7 +14,7 @@ menu:
 weight: 2
 
 aliases:
-    - /tutorials/work-animations/exsplosyn-lkca4-spec-h/
+    - /tutorials/animations/exsplosyn-lkca4-spec-h/
     - /exsplosyn-lkca4-spec-h/
 ---
 

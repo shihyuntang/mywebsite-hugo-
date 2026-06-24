@@ -14,7 +14,7 @@ menu:
 weight: 1
 
 aliases:
-    - /tutorials/work-animations/exsplosyn-model/
+    - /tutorials/animations/exsplosyn-model/
     - /exsplosyn-model/
 ---
 
