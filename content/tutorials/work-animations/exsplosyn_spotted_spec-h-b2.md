@@ -25,7 +25,7 @@ This page hosts the full-resolution companion animations for my PhD thesis, *Cha
 The animation below corresponds to **Chapter 4.6, Figure 4.28** of my thesis.
 
 <div style="text-align: center; margin-top: 50px; margin-bottom: 30px; clear: both;">
-    <a href="/animations/EXSPLOSYN_LkCa4_spectral_comparison.gif" target="_blank">
+    <a href="/animations/EXSPLOSYN_LkCa4_spectral_comparison_Hband_2kG.gif" target="_blank">
         <img src="/animations/EXSPLOSYN_LkCa4_spectral_comparison_Hband_2kG.gif" alt="LkCa4 EXSPLOSYN Spectra H band 2kG" width="100%" style="max-width: 1000px; display: inline-block;" />
     </a>
     <p><em>Click the animation to open the raw GIF in a new tab.</em></p>
