@@ -8,7 +8,7 @@ draft: false
 slug: "exsplosyn-lkca4-spec-H"
 menu:
   work-animations:
-    parent: Animations 
+    parent: Overview 
     weight: 2
 
 weight: 2

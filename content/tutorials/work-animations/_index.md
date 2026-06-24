@@ -8,13 +8,11 @@ weight: 5
 title: Starspot Simulation Animation
 date: "2026-06-18T00:00:00Z"
 lastmod: "2026-06-18T00:00:00Z"
-draft: false  # Is this a draft? true/false
-toc: false  # Show table of contents? true/false
-type: docs  # Do not modify.
+draft: false  
+toc: false  
+type: docs  
 
 # Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
 menu:
   work-animations:
     name: Overview
@@ -35,6 +33,6 @@ Please select from below links or use the sidebar navigation to view the full-re
 
 #### 2. [LkCa4 Spotted Model H-Band Spectra Comparison](./exsplosyn-lkca4-spec-H/)
 
-#### 3. [LkCa4 Spotted Model Magnetized H-Band Spectra Comparison](./exsplosyn-lkca4-spec-H-2kG/)
+#### 3. [LkCa4 Spotted Model Magnetized H-Band Spectra Comparison](./exsplosyn-lkca4-spec-H-2kg/)
 
-#### 4. [LkCa4 Spotted Model K-Band Spectra Comparison](./exsplosyn-lkca4-spec-K-2kG/)
+#### 4. [LkCa4 Spotted Model K-Band Spectra Comparison](./exsplosyn-lkca4-spec-K-2kg/)
