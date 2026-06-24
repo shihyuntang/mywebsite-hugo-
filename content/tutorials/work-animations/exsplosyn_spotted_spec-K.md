@@ -5,7 +5,7 @@ toc: true
 type: docs
 date: "2026-06-19T00:00:00+01:00"
 draft: false
-slug: "exsplosyn-lkca4-spec-K-2kG"
+slug: "exsplosyn-lkca4-spec-K-2kg"
 menu:
   work-animations:
     parent: Animations 
@@ -14,8 +14,8 @@ menu:
 weight: 4
 
 aliases:
-    - /tutorials/work-animations/exsplosyn-lkca4-spec-K-2kG/
-    - /exsplosyn-lkca4-spec-K-2kG/
+    - /tutorials/work-animations/exsplosyn-lkca4-spec-K-2kg/
+    - /exsplosyn-lkca4-spec-K-2kg/
 ---
 
 This page hosts the full-resolution companion animations for my PhD thesis, *Characterization of Young Active Stars for Identifying the Youngest Exoplanets*. 
