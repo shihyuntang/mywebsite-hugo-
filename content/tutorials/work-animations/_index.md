@@ -32,11 +32,18 @@ Please select from below links or use the sidebar navigation to view the full-re
 ### Available Animations
 
 #### 1. [EXSPLOSYN Surface Mapping & Standard Output](./exsplosyn-model/)
-* **Thesis Reference:** Chapter 4.5, Figure 4.14
-* **Description:** A 3D surface mapping sequence showing stellar spot configurations alongside corresponding synthetic spectra, radial velocity (RV) variations, and equivalent width ratios (EWR) for the weak-line T Tauri star LkCa4.
-* [**View Full-Resolution Animation →**](./exsplosyn-model/)
 
-#### 2. [LkCa4 Spotted Model Spectra Comparison](./exsplosyn-lkca4-spec/)
-* **Thesis Reference:** Chapter 4.5, Figure 4.26
+#### 2. [LkCa4 Spotted Model H-Band Spectra Comparison](./exsplosyn-lkca4-spec-H/)
+
+#### 3. [LkCa4 Spotted Model Magnetized H-Band Spectra Comparison](./exsplosyn-lkca4-spec-H-2kG/)
+
+#### 4. [LkCa4 Spotted Model K-Band Spectra Comparison](./exsplosyn-lkca4-spec-K-2kG/)
+
+
+<!-- * **Thesis Reference:** Chapter 4.5, Figure 4.14
+* **Description:** A 3D surface mapping sequence showing stellar spot configurations alongside corresponding synthetic spectra, radial velocity (RV) variations, and equivalent width ratios (EWR) for the weak-line T Tauri star LkCa4.
+* [**View Full-Resolution Animation →**](./exsplosyn-model/) -->
+* 
+<!-- * **Thesis Reference:** Chapter 4.5, Figure 4.26
 * **Description:** A phase-resolved animation tracking the variations in the stellar spectrum. Features a direct comparison between SPIRou observations, the best-fit `EXSPLOSYN` forward model, and the two-component composite spectra.
-* [**View Full-Resolution Animation →**](./exsplosyn-lkca4-spec/)
+* [**View Full-Resolution Animation →**](./exsplosyn-lkca4-spec/) -->
