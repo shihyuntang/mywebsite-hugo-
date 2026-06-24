@@ -8,7 +8,7 @@ draft: false
 slug: "exsplosyn-model"
 menu:
   work-animations:
-    parent: Animations 
+    parent: Overview 
     weight: 1
 
 weight: 1
